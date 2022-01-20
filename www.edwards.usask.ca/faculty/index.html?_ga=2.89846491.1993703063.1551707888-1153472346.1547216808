@@ -1,0 +1,725 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en">
+<head>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KWD2J2');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+    <title>Edwards Faculty & Staff</title>
+    <meta content="Edwards Tools and Applications" name="description"/>
+    <meta content="" name="keywords"/>
+<link href="favicon.ico" rel="SHORTCUT ICON"/>
+<link href="//www.edwards.usask.ca/css/foundation.min.css" rel="stylesheet"/><link href="/css/appv3.css" rel="stylesheet"/><link href="/css/slick.css" rel="stylesheet" type="text/css"/>
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+      
+    <script defer src="https://use.fontawesome.com/d8e3123262.js"></script>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&display=swap' rel='stylesheet' type='text/css'>
+        
+        
+
+
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWD2J2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+
+<div class="off-canvas-wrapper" style="overflow-y: hidden;">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+<div class="off-canvas position-left" data-off-canvas="" id="offCanvas">
+<button aria-label="Close menu" class="close-button" data-close="" style="display: none;" type="button"> <span aria-hidden="true">&#215;</span> </button>  <div class="slide-bar" style="background-color:inherit; padding:0px;font-size:0.9em;">
+  
+<h3>Welcome to Edwards</h3>
+
+<a href="http://www.paws.usask.ca/" class="menuitem">Paws</a>
+<a href="//www.edwards.usask.ca/tools.aspx" class="menuitem">Tools</a>
+
+<a href="//www.edwards.usask.ca/faculty/" class="menuitem">Directory</a>
+<a href="//www.edwards.usask.ca/search.aspx" class="menuitem">Search</a>
+<div class="slide-bar-divider"> </div>
+<h3>Edwards Menu</h3>
+<div class="slide-bar-divider"> </div>
+    <ul class="accordion" data-accordion="" data-allow-all-closed="true">
+     
+       <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Programs</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul>
+          <li><p>Undergraduate Program</p></li>
+           <li><i class="fa fa-caret-right"> </i><a href="//www.edwards.usask.ca/programs/undergrad/newstudents/index.aspx">New Students</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/undergrad/">Bachelor of Commerce</a></li>
+           <li class="divider"></li>
+           <li><p>Certificate Programs</p></li>
+           <li><a href="//www.edwards.usask.ca/programs/abac/">Aboriginal Business Administration</a></li>
+             <li><a href="//www.edwards.usask.ca/programs/business/">Certificate in Business</a></li>
+                <li><a href="//www.edwards.usask.ca/programs/entrepreneurship/">Certificate in Entrepreneurship</a></li>
+                  <li><a href="//www.edwards.usask.ca/programs/leadership/">Graduate Certificate in Leadership</a></li>
+          <li class="divider"></li>
+          <li><p>Graduate Programs</p></li>
+          <li><a href="//www.edwards.usask.ca/programs/mba/">Masters of Business Administration</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/mpacc/">Masters of Professional Accounting</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/mscfinance/">Masters of Science in Finance</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/mscmarketing">Masters of Science in Marketing</a></li>
+          <li><a href="//appliedecon.usask.ca/">PhD in Applied Economics</a></li>
+        
+        </ul>
+        </div>
+      </li>
+
+
+      <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Students</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul>
+      
+         
+          
+          <li><a href="//students.edwards.usask.ca/">Current Students</a></li>
+          
+        
+        </ul></div>
+        </li>
+     <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Executive Education</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul>
+           <li><p>Executive Education</p></li>
+            <li><a href="//www.edwards.usask.ca/programs/execed/">Home Page</a></li>
+        <li><p>For Individuals</p></li>
+       <li><a href="//www.edwards.usask.ca/programs/execed/search/">Find a Program</a></li>
+             <li><a href="//www.edwards.usask.ca/programs/execed/all-courses.aspx">Full Program List</a></li>
+             <li><a href="//www.edwards.usask.ca/programs/execed/funding-opportunities.aspx">Funding Opportunities</a></li>
+           
+        <li><p> </p></li>
+            <li><p>For Organizations</p></li>
+             <li><a href="//www.edwards.usask.ca/programs/execed/organizations.aspx">In-house & Custom Programming</a></li>
+            
+             <li><p> </p></li>
+           
+            <li><p>Featured Programs</p></li>
+            <li><a href="//www.edwards.usask.ca/programs/execed/programs/Leadership/Effective-Executive.aspx">Effective Executive Leadership </a></li>
+            <li><a href="//www.edwards.usask.ca/programs/execed/programs/Management/Labour-Management-Relations.aspx">Labour-Management Relations</a></li> 
+            <li><a href="//www.edwards.usask.ca/programs/execed/programs/Project-and-Process-Management/Masters-Certificate-Project-Management-Saskatoon.aspx">Project Management Master's Cert.</a></li>
+        
+          </ul>
+        </div>
+      </li> 
+     
+      <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Research</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul> 
+             <li><a href="//www.edwards.usask.ca/research">Research Home</a></li>
+      <li><a href="//www.edwards.usask.ca/research/news.aspx">Research News & Stories </a></li>
+      
+          <li><a href="//www.edwards.usask.ca/research/facultyresearchareas.aspx">Faculty Research Areas</a></li>
+         <li><a href="//www.edwards.usask.ca/research/publications.aspx">Publications</a></li>
+         
+         
+          
+         
+        
+        </ul>
+        </div>
+        </li>
+     
+      <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Centres & Initiatives</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul> <li><a href="//www.edwards.usask.ca/employers/student_consulting.aspx">Experiential Learning Initiative</a></li>
+          <li><a href="//www.edwards.usask.ca/entrepreneur/">InVenture: Entrepreneurship in Action</a></li>
+           <li><a href="//www.edwards.usask.ca/centres/grandey">Grandey Initiative</a></li>
+          <li><a href="//www.edwards.usask.ca/centres/hanlon/">Hanlon Centre</a></li>
+          <li><a href="//www.edwards.usask.ca/centres/rawlinson">Rawlinson Centre for Indigenous Business Students</a></li>
+         
+          
+         
+        
+        </ul>
+        </div>
+        </li>
+      <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">About Us</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul>
+      
+          <li><a href="//www.edwards.usask.ca/aboutus.aspx">About Edwards</a></li>
+          <li><a href="//www.edwards.usask.ca/deans-message.aspx">Dean's Message</a></li>
+          <li> <a href="//www.edwards.usask.ca/strategicplan.aspx">Strategic Plan</a></li>
+          <li><a href="//www.edwards.usask.ca/faculty/">Staff & Faculty Directory</a></li>
+          <li><a href="//www.edwards.usask.ca/news/">News & Stories</a></li>
+          <li><a href="//www.edwardsdeanscircle.ca/">Dean's Circle</a></li>
+          <li><a href="//edwards.usask.ca/thrive2021/">Thrive Magazine</a></li>
+         
+          <li><a href="//www.edwards.usask.ca/departments/careers/">Careers with Edwards</a></li>
+         
+        
+        </ul></div>
+        </li>
+         <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Employers</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul>
+      <ul>
+      
+          <li><a href="//www.edwards.usask.ca/employers/">Hire a Student</a></li>
+          <li><a href="//www.edwards.usask.ca/employers/student_consulting.aspx">Consulting and Service Projects</a></li>
+          <li><a href="//www.edwards.usask.ca/employers/translation-services.aspx">Translation Services </a></li>
+          <li><a href="//www.edwards.usask.ca/employers/#edwardsco-opprograms">Edwards Co-op Programs</a></li>
+          </ul>
+          </div>
+      </li>
+      <li class="accordion-item" data-accordion-item="">
+         <a class="accordion-title" href="#">Alumni</a>
+        
+        <div class="accordion-content" data-tab-content="">
+          <ul>
+      
+          <li><a href="//www.edwards.usask.ca/alumni/">Edwards Alumni</a></li>
+                 
+           <li><a href="//www.edwards.usask.ca/alumni/ways-to-give.aspx">Donors & Ways to Give</a></li>
+             <li><a href="//www.edwards.usask.ca/alumni/class-updates.aspx">Alumni News</a></li>       
+          <li><a href="//edwards.usask.ca/apps/gradphotos/">Find a Grad Photo</a></li>
+          
+         
+        
+        </ul>
+        </div>
+      </li> 
+    </ul>
+
+<a href="//www.edwards.usask.ca/contact.aspx" class="menuitem">Contact Us</a>
+    <a href="//www.edwards.usask.ca/applynow.aspx" class="text">APPLY NOW</a>
+  </div>
+  
+
+    
+ </div><div class="off-canvas-content" data-off-canvas-content="">
+<div>
+<div data-sticky-container="" style="height:105px;">   
+<div class="topStickyNav" data-sticky data-options="marginTop:0;" style="width:100%;z-index:10000;">
+        <div class="" style="position: relative;background-color:#0080a7; text-align:center;color:#fff;padding:4px;padding-top:17px;font-size:1.1em">
+                <p style="font-weight:bold;"><i aria-hidden="true" class="fa fa-info-circle"> </i> &nbsp;<u><a class="alert-link" style="color:#fff;" href="https://covid19.usask.ca/">USask's response to COVID-19</a></u> | Protect the Pack </p>
+                </div>  
+    <div class="title-bar "  style="width:100%">
+        <div class="title-bar-left">
+            <a href="/" class="shieldLogo">
+                <img src="//www.edwards.usask.ca/img/logos/edwards_shield.jpg" class="headerLogo">
+                    <div class="separator"/>
+                    <h1>Edwards School of Business</h1>
+                </div>
+            </a>
+        </div>
+        <div class="title-bar-right hide-for-large-up ">
+            <ul class="table">
+                <li>
+                    <a href="//www.edwards.usask.ca/tools.aspx">
+                        <i class="fa fa-cog"></i> Tools |
+                    </a>
+                </li>
+                <li>
+                    <a href="https://paws.usask.ca">
+                        <i class="fa fa-paw"></i> Paws |
+                    </a>
+                </li>
+                <li>
+                    <a href="//www.edwards.usask.ca/faculty/">
+                        <i class="fa fa-phone"></i> Directory |
+                    </a>
+                </li>
+                <li>
+                    <a href="//www.edwards.usask.ca/search.aspx">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div><div class="row  topMenu"  style="width:100%;">
+<div class="top-bar-small">  
+<button type="button" class="button" data-toggle="offCanvas"><i class="fa fa-bars"> </i> Menu</button>
+
+</div>
+<div class="top-bar" style="background-color:inherit; padding:0px;font-size:0.9em;">
+  <div class="top-bar-left">
+    <ul class="dropdown menu" data-dropdown-menu  style="background-color:inherit;"  data-options="disableHover:true;closingTime:5000;clickOpen:true;" >
+     
+      <li>
+        <a href="#">Programs</a>
+        <ul class="menu vertical" style="background-color:none;">
+          <li><p>Undergraduate Program</p></li>
+          <li><a href="//www.edwards.usask.ca/programs/undergrad/newstudents/index.aspx">New Students</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/undergrad/">Bachelor of Commerce</a></li>
+          
+           <li class="divider"></li>
+           <li><p>Certificate Programs</p></li>
+       
+          <li><a href="//www.edwards.usask.ca/programs/abac/">Aboriginal Business Administration</a></li>
+             <li><a href="//www.edwards.usask.ca/programs/business/">Certificate in Business</a></li>
+                <li><a href="//www.edwards.usask.ca/programs/entrepreneurship/">Certificate in Entrepreneurship</a></li>
+                 <li><a href="//www.edwards.usask.ca/programs/leadership/">Graduate Certificate in Leadership</a></li>
+          <li class="divider"></li>
+          <li><p>Graduate Programs</p></li>
+          <li><a href="//www.edwards.usask.ca/programs/mba/">Master of Business Administration</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/mpacc/">Master of Professional Accounting</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/mscfinance/">Master of Science in Finance</a></li>
+          <li><a href="//www.edwards.usask.ca/programs/mscmarketing">Master of Science in Marketing</a></li>
+      
+          <li><a href="https://appliedecon.usask.ca/">PhD in Applied Economics</a></li>
+        
+        </ul>
+      </li>
+      <li><a href="#">Students</a> 
+      <ul class="menu vertical">
+      
+         
+          <li><a href="https://students.edwards.usask.ca/">Current Students</a></li>
+          
+        
+        </ul></li>
+      <li><a href="#">Executive Education</a>
+       <ul class="menu vertical">
+       <li><p>Executive Education</p></li>
+        <li><a href="//www.edwards.usask.ca/programs/execed/">Home Page</a></li>
+         <li class="divider"></li>
+          <li><p>For Individuals</p></li>
+       <li><a href="//www.edwards.usask.ca/programs/execed/search/">Find a Program</a></li>
+             <li><a href="//www.edwards.usask.ca/programs/execed/all-courses.aspx">Full Program List</a></li>
+             <li><a href="//www.edwards.usask.ca/programs/execed/funding-opportunities.aspx">Funding Opportunities</a></li>
+               <li class="divider"></li>
+               <li><p>For Organizations</p></li>
+             <li><a href="//www.edwards.usask.ca/programs/execed/organizations.aspx">In-house & Custom Programming</a></li>
+              
+      
+         <li class="divider"></li>
+           <li><p>Featured Programs</p></li>
+          <li><a href="/programs/execed/programs/Leadership/Effective-Executive.aspx">Effective Executive Leadership </a></li>
+          <li><a href="/programs/execed/programs/Management/Labour-Management-Relations.aspx">Labour-Management Relations</a></li> 
+           
+           <li><a href="/programs/execed/programs/Project-and-Process-Management/Masters-Certificate-Project-Management-Saskatoon.aspx">Project Management Master's Cert.</a></li>
+           <li class="divider"></li>
+        
+        </ul></li>
+           <li><a href="#">Research</a>
+      
+       <ul class="menu vertical">
+         <li><a href="//www.edwards.usask.ca/research">Research Home</a></li>
+      <li><a href="//www.edwards.usask.ca/research/news.aspx">Research News & Stories </a></li>
+      
+          <li><a href="//www.edwards.usask.ca/research/facultyresearchareas.aspx">Faculty Research Areas</a></li>
+         <li><a href="//www.edwards.usask.ca/research/publications.aspx">Publications</a></li>
+          
+         
+          
+         
+        
+        </ul>
+        </li>
+      <li><a href="#">Centres & Initiatives</a>
+      
+       <ul class="menu vertical">
+         <li><a href="//www.edwards.usask.ca/employers/student_consulting.aspx">Experiential Learning Initiative</a></li>
+      <li><a href="//www.edwards.usask.ca/entrepreneur/">InVenture: Entrepreneurship in Action</a></li>
+      
+          <li><a href="//www.edwards.usask.ca/centres/grandey">Grandey Initiative</a></li>
+         <li><a href="//www.edwards.usask.ca/centres/hanlon/">Hanlon Centre</a></li>
+          <li><a href="//www.edwards.usask.ca/centres/rawlinson">Rawlinson Centre for Indigenous </br>Business Students</a></li>
+         
+          
+         
+        
+        </ul>
+        </li>
+      <li><a href="#">About Us</a>
+      
+       <ul class="menu vertical">
+      
+          <li><a href="//www.edwards.usask.ca/aboutus.aspx">About Edwards</a></li>
+          <li><a href="//www.edwards.usask.ca/deans-message.aspx">Dean's Message</a></li>
+          <li> <a href="//www.edwards.usask.ca/strategicplan.aspx">Strategic Plan</a></li>
+          <li><a href="//www.edwards.usask.ca/faculty/">Staff & Faculty Directory</a></li>
+         <li><a href="//www.edwards.usask.ca/news/">News & Stories</a></li>
+          <li><a href="http://www.edwardsdeanscircle.ca/">Dean's Circle</a></li>
+          <li><a href="//edwards.usask.ca/thrive2021/">Thrive Magazine</a></li>
+          <li><a href="//www.edwards.usask.ca/departments/careers/">Careers with Edwards</a></li>
+          
+         
+        
+        </ul>
+        </li>
+        <li><a href="#">Employers</a> 
+      <ul class="menu vertical">
+      
+          <li><a href="//www.edwards.usask.ca/employers/">Hire a Student</a></li>
+          <li><a href="//www.edwards.usask.ca/employers/student_consulting.aspx">Consulting and Service Projects</a></li>
+           <li><a href="//www.edwards.usask.ca/employers/translation-services.aspx">Translation Services</a></li>
+           <li><a href="//edwards.usask.ca/employers/#edwardsco-opprograms">Edwards Co-op Programs</a></li>
+          
+           
+          </ul>
+      </li>
+      <li><a href="#">Alumni</a> 
+      <ul class="menu vertical">
+      
+          <li><a href="//www.edwards.usask.ca/alumni/">Edwards Alumni</a></li>
+          <li><a href="//www.edwards.usask.ca/alumni/ways-to-give.aspx">Donors & Ways to Give</a></li>
+        <!--  <li><a href="//www.edwards.usask.ca/alumni/class-updates.aspx">Alumni News</a></li>-->
+          <li><a href="//www.edwards.usask.ca/alumni/thrive.aspx">Thrive Magazine</a></li>
+          <li><a href="//www.edwards.usask.ca/alumni/reunion-planning.aspx">Reunion Planning</a></li>
+          <li><a href="//alumni.usask.ca/contact-us/update-information.php">Update Contact Info</a></li>
+          <li><a href="//www.edwards.usask.ca/alumni/e-for-excellence.aspx">E for Excellence - Alumni News </a></li>
+          
+          <li><a href="//edwards.usask.ca/apps/gradphotos/">Find a Grad Photo</a></li>
+          <li><a href="//www.edwards.usask.ca/alumni/your-advancement-team.aspx">Your Advancement Team</a></li>
+          
+                    
+          
+          
+         
+        
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="menu" style="background-color:inherit;">
+  
+ 
+      <li><a class="applyButton" href="//www.edwards.usask.ca/applynow.aspx"><button type="button" class="button bold" style="height:32px;">Apply</button></a></li>
+      <li><a class="applyButton" href="https://donate.usask.ca/online/edwards.php"><button type="button" class="button bold" style="height:32px;">Donate</button></a></li>
+      <li><a class="applyButton" href="//www.edwards.usask.ca/contact.aspx"><button type="button" class="button bold" style="height:32px;">Contact</button></a></li>
+   
+     </ul>
+  </div>
+</div>
+    
+</div></div></div>
+
+
+
+     
+  
+<div class="content"> 
+
+    
+    <form method="post" action="./?_ga=2.89846491.1993703063.1551707888-1153472346.1547216808" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0NTQzNzQ5Ng9kFgJmD2QWAgIID2QWAgIDD2QWAgIBDxYCHgRUZXh0BeXSATxkaXYgaWQ9J0RlYW4ncyBPZmZpY2UnPjx0YWJsZSBjbGFzcz0nbm9ib3JkZXInIGlkPSdmYWN1bHR5VGFibGVzJz48dGhlYWQ+PHRoIGNvbHNwYW49JzQnPjxoMj5EZWFuJ3MgT2ZmaWNlPC9oMj48L3RoPjwvdGhlYWQ+PHRib2R5Pjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9LZWl0aCBXaWxsb3VnaGJ5L2luZGV4LmFzcHgnPktlaXRoIFdpbGxvdWdoYnk8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5EZWFuIG9mIHRoZSBFZHdhcmRzIFNjaG9vbCBvZiBCdXNpbmVzczwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxODQuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNDc4NjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1NoYXJvbiBFdmFucy9pbmRleC5hc3B4Jz5TaGFyb24gRXZhbnM8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5FeGVjdXRpdmUgQXNzaXN0YW50IHRvIERlYW4gV2lsbG91Z2hieTwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxODQ8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTQ3ODY8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NYXJqb3JpZSBEZWxiYWVyZS9pbmRleC5hc3B4Jz5NYXJqb3JpZSBEZWxiYWVyZTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc29jaWF0ZSBEZWFuLCBSZXNlYXJjaCwgR3JhZHVhdGUgUHJvZ3JhbXMgYW5kIEZhY3VsdHkgUmVsYXRpb25zPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE4MDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNTkxNjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L05vcmVlbiBNYWhvbmV5L2luZGV4LmFzcHgnPk5vcmVlbiBNYWhvbmV5PC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIERlYW4sIFN0dWRlbnRzIGFuZCBEZWdyZWUgUHJvZ3JhbXMgPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE3Ny4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNTU2PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvbWVnYW4tY2FudHdlbGwvaW5kZXguYXNweCc+TWVnYW4gQ2FudHdlbGw8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5EaXJlY3RvciwgQ29sbGVnZSBBZHZhbmNlbWVudDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA3NTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtODg1MzwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2FubmEtYnVydG9uL2luZGV4LmFzcHgnPkFubmEgQnVydG9uPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+RGV2ZWxvcG1lbnQgT2ZmaWNlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA3Ni4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni03NDcxPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTmF0YXNoYSBLYXRjaHVrL2luZGV4LmFzcHgnPk5hdGFzaGEgS2F0Y2h1azwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlNlbmlvciBDb21tdW5pY2F0aW9ucyBPZmZpY2VyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDc2LjI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTI4MTE8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9jYXJsYS1rbm9sbC9pbmRleC5hc3B4Jz5DYXJsYSBLbm9sbDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkZpbmFuY2UgU0JBIDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxODMuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2thaWxleS1sYXZhbGxlZS9pbmRleC5hc3B4Jz5LYWlsZXkgTGF2YWxsZWU8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Qcm9ncmFtIE1hcmtldGluZyBPZmZpY2VyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDc2LjI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9Kb2VsZW5hIExlYWRlci9pbmRleC5hc3B4Jz5Kb2VsZW5hIExlYWRlcjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlJlc2VhcmNoIEZhY2lsaXRhdG9yIDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNzg8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTUyOTc8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9TY290dCBNY0NyZWF0aC9pbmRleC5hc3B4Jz5TY290dCBNY0NyZWF0aDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkV4ZWN1dGl2ZSBpbiBSZXNpZGVuY2U8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gODIuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1ZpY2t5IFBhcm9obC9pbmRleC5hc3B4Jz5WaWNreSBQYXJvaGw8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5NYW5hZ2VyLCBBY2NyZWRpdGF0aW9uIGFuZCBTdHJhdGVnaWMgSW5pdGlhdGl2ZXM8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTc3PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni03MzYyPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvcmljay1yZWlkL2luZGV4LmFzcHgnPlJpY2sgUmVpZDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkh1bWFuIFJlc291cmNlcyBTdHJhdGVnaWMgQnVzaW5lc3MgQWR2aXNvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNzcuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNjU5ODwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L01hcnZpbiBSb21hbm93L2luZGV4LmFzcHgnPk1hcnZpbiBSb21hbm93PC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+RXhlY3V0aXZlIGluIFJlc2lkZW5jZTwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4Mi4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvc3BlbmNlci1zbWl0L2luZGV4LmFzcHgnPlNwZW5jZXIgU21pdDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkZhY2lsaXRpZXMgU3RyYXRlZ2ljIEJ1c2luZXNzIEFkdmlzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2NhcmxlZS1zbm93L2luZGV4LmFzcHgnPkNhcmxlZSBTbm93PC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QWR2YW5jZW1lbnQgRW5nYWdlbWVudCBPZmZpY2VyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDc2PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni01NDM3PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvRG9uYWxkYSBTdmFyYy9pbmRleC5hc3B4Jz5Eb25hbGRhIFN2YXJjPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+RG9ub3IgUmVsYXRpb25zIENvb3JkaW5hdG9yIChPbiBMZWF2ZSk8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNzY8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTU0Mzc8L3A+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT48L2Rpdj48ZGl2IGlkPSdEZXBhcnRtZW50IG9mIEFjY291bnRpbmcnPjx0YWJsZSBjbGFzcz0nbm9ib3JkZXInIGlkPSdmYWN1bHR5VGFibGVzJz48dGhlYWQ+PHRoIGNvbHNwYW49JzQnPjxoMj5EZXBhcnRtZW50IG9mIEFjY291bnRpbmc8L2gyPjwvdGg+PC90aGVhZD48dGJvZHk+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0RldmFuIE1lc2NhbGwvaW5kZXguYXNweCc+RGV2YW4gTWVzY2FsbDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFjdGluZyBEZXBhcnRtZW50IEhlYWQ8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjc1PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yODI3PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvSGFsIEVsa2lucy9pbmRleC5hc3B4Jz5IYWwgRWxraW5zPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzaXN0YW50IFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyNzk8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTU4MTA8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9HYXJ5IEVudHdpc3RsZS9pbmRleC5hc3B4Jz5HYXJ5IEVudHdpc3RsZTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyODU8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTg0MDM8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9LZW5uZXRoIEZveC9pbmRleC5hc3B4Jz5LZW5uZXRoIEZveDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc2lzdGFudCBQcm9mZXNzb3IgPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDI4NDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L21pY2hhZWwtZ29uYXJpL2luZGV4LmFzcHgnPk1pY2hhZWwgR29uYXJpPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjQxPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNDM3PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTWljaGFlbCBIZXJuaWsvaW5kZXguYXNweCc+TWljaGFlbCBIZXJuaWs8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5MZWN0dXJlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyODg8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTI5NTQ8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9OYXRoYWxpZSBKb2huc3RvbmUvaW5kZXguYXNweCc+TmF0aGFsaWUgSm9obnN0b25lPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyNzcuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNjQ3ODwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1N1cmVzaCBLYWxhZ25hbmFtL2luZGV4LmFzcHgnPlN1cmVzaCBLYWxhZ25hbmFtPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvciA8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjczPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni04NDA0PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvRG91Z2xhcyBLYWxlc25pa29mZi9pbmRleC5hc3B4Jz5Eb3VnbGFzIEthbGVzbmlrb2ZmPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyNzQ8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTE0NzE8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NYXJrIEtsYXNzZW4vaW5kZXguYXNweCc+TWFyayBLbGFzc2VuPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzaXN0YW50IFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyODIuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTMwMDwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0JyYW5keSBNYWNraW50b3NoL2luZGV4LmFzcHgnPkJyYW5keSBNYWNraW50b3NoPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzaXN0YW50IFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyODcuMjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNzc0OTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0hhbi11cCBQYXJrL2luZGV4LmFzcHgnPkhhbi1VcCBQYXJrPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzaXN0YW50IFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyODM8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTQ1Mzg8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9uaWtraS1zY2hhYW4vaW5kZXguYXNweCc+Tmlra2kgU2NoYWFuPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNTE8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9SZWdhbiBTY2htaWR0L2luZGV4LmFzcHgnPlJlZ2FuIFNjaG1pZHQ8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Qcm9mZXNzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjcxPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni00NDM4PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTm9ybWFuIFNoZWVoYW4vaW5kZXguYXNweCc+Tm9ybWFuIFNoZWVoYW48L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Qcm9mZXNzb3IgPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDI4NjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNDgwMTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0dhbmVzaCBWYWlkeWFuYXRoYW4vaW5kZXguYXNweCc+R2FuZXNoIFZhaWR5YW5hdGhhbjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc29jaWF0ZSBQcm9mZXNzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjcyPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvZ2VycnktdmlzZW50aW5pL2luZGV4LmFzcHgnPkdlcnJ5IFZpc2VudGluaTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDI0MS4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48L3Rib2R5PjwvdGFibGU+PC9kaXY+PGRpdiBpZD0nRGVwYXJ0bWVudCBvZiBGaW5hbmNlIGFuZCBNYW5hZ2VtZW50IFNjaWVuY2UnPjx0YWJsZSBjbGFzcz0nbm9ib3JkZXInIGlkPSdmYWN1bHR5VGFibGVzJz48dGhlYWQ+PHRoIGNvbHNwYW49JzQnPjxoMj5EZXBhcnRtZW50IG9mIEZpbmFuY2UgYW5kIE1hbmFnZW1lbnQgU2NpZW5jZTwvaDI+PC90aD48L3RoZWFkPjx0Ym9keT48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQ3JhaWcgV2lsc29uL2luZGV4LmFzcHgnPkNyYWlnIFdpbHNvbjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkRlcGFydG1lbnQgSGVhZDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA3NDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtODQzMDwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2Nhcm9seW4tYXVndXN0YS9pbmRleC5hc3B4Jz5DYXJvbHluIEF1Z3VzdGE8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5MZWN0dXJlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4ODwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L211c3RhZmEtYXZjaS9pbmRleC5hc3B4Jz5NdXN0YWZhIEF2Y2k8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5MZWN0dXJlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4ODwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0phbWVzIENhby9pbmRleC5hc3B4Jz5KYW1lcyBDYW88L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3Npc3RhbnQgUHJvZmVzc29yIChPbiBMZWF2ZSk8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNTE8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTU5ODM8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9BbWFyaml0IEdpbGwvaW5kZXguYXNweCc+QW1hcmppdCBHaWxsPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNTU8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTI1NDc8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NZWhyYW4gSG9qYXRpL2luZGV4LmFzcHgnPk1laHJhbiBIb2phdGk8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3NvY2lhdGUgUHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDczPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni04NDI4PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTW9oc2luIEphdC9pbmRleC5hc3B4Jz5Nb2hzaW4gIEphdDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDU0PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQnJpYW4gTGFuZS9pbmRleC5hc3B4Jz5CcmlhbiBMYW5lPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA3MTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtODQyNTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0FiZHVsbGFoIE1hbXVuL2luZGV4LmFzcHgnPkFiZHVsbGFoIE1hbXVuPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvciA8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNzg8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTE4NjI8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NaW4gTWF1bmcvaW5kZXguYXNweCc+TWluIE1hdW5nPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvciAoT24gTGVhdmUpPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDc5PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yODI5PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvRGV2IE1pc2hyYS9pbmRleC5hc3B4Jz5EZXYgTWlzaHJhPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZmVzc29yIDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4MzwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtODQ1NzwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L3NvbXJlZXRhLW11a2hlcmplZS9pbmRleC5hc3B4Jz5Tb21yZWV0YSBNdWtoZXJqZWU8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5MZWN0dXJlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTWFyaWUgUmFjaW5lL2luZGV4LmFzcHgnPk1hcmllIFJhY2luZTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc29jaWF0ZSBQcm9mZXNzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjc4PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni04NDA2PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvSGFtZWQgU2FtYXJnaGFuZGkvaW5kZXguYXNweCc+SGFtZWQgU2FtYXJnaGFuZGk8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3NvY2lhdGUgUHJvZmVzc29yIG9mIE1hbmFnZW1lbnQgU2NpZW5jZTwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA5MDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTI3ODwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L3NoZW5nLXRhbmcvaW5kZXguYXNweCc+U2hlbmcgVGFuZzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE0ODwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0dlb3JnZSBUYW5ub3VzL2luZGV4LmFzcHgnPkdlb3JnZSBUYW5ub3VzPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZmVzc29yIDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4NTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNjY5NTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1NoYW4gV2FuZy9pbmRleC5hc3B4Jz5TaGFuIFdhbmc8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3NvY2lhdGUgUHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDgyLjI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTc1ODU8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9GYW4gWWFuZy9pbmRleC5hc3B4Jz5GYW4gWWFuZzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc29jaWF0ZSBQcm9mZXNzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gODY8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTc5Mzg8L3A+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT48L2Rpdj48ZGl2IGlkPSdEZXBhcnRtZW50IG9mIEh1bWFuIFJlc291cmNlcyBhbmQgT3JnYW5pemF0aW9uYWwgQmVoYXZpb3VyJz48dGFibGUgY2xhc3M9J25vYm9yZGVyJyBpZD0nZmFjdWx0eVRhYmxlcyc+PHRoZWFkPjx0aCBjb2xzcGFuPSc0Jz48aDI+RGVwYXJ0bWVudCBvZiBIdW1hbiBSZXNvdXJjZXMgYW5kIE9yZ2FuaXphdGlvbmFsIEJlaGF2aW91cjwvaDI+PC90aD48L3RoZWFkPjx0Ym9keT48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvSm9zZXBoIFNjaG1pZHQvaW5kZXguYXNweCc+Sm9zZXBoIFNjaG1pZHQ8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5EZXBhcnRtZW50IEhlYWQ8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjc3LjI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTQ3NDE8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9TYW11ZWwgR29sZHN0ZWluL2luZGV4LmFzcHgnPlNhbXVlbCBHb2xkc3RlaW48L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3Npc3RhbnQgUHJvZmVzc29yIDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvRGF2aWQgS3JhaWNoeS9pbmRleC5hc3B4Jz5EYXZpZCBLcmFpY2h5PC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzaXN0YW50IFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNTU8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTgwMTM8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9UcmV2b3IgTWFiZXIvaW5kZXguYXNweCc+VHJldm9yIE1hYmVyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNTM8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTQyNDE8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9sZXNsaWUtbWFydGluL2luZGV4LmFzcHgnPkxlc2xpZSBNYXJ0aW48L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5MZWN0dXJlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNTY8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NYXJjIE1lbnR6ZXIvaW5kZXguYXNweCc+TWFyYyBNZW50emVyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDg0PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni04NDU4PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvZGlvbm5lLXBvaGxlci9pbmRleC5hc3B4Jz5EaW9ubmUgUG9obGVyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNTA8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NZWdhbiBXYWxzaC9pbmRleC5hc3B4Jz5NZWdhbiBXYWxzaDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc2lzdGFudCBQcm9mZXNzb3IgKE9uIExlYXZlKTwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNTI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTE5MzA8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9TY290dCBXYWxzd29ydGgvaW5kZXguYXNweCc+U2NvdHQgV2Fsc3dvcnRoPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvciA8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTU0PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni03MTczPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvY2xhdWRpYS13ZW5kcmljaC9pbmRleC5hc3B4Jz5DbGF1ZGlhIFdlbmRyaWNoPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTQ5PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQ2hlbHNlYSBXaWxsbmVzcy9pbmRleC5hc3B4Jz5DaGVsc2VhIFdpbGxuZXNzPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD48L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT48L2Rpdj48ZGl2IGlkPSdEZXBhcnRtZW50IG9mIE1hbmFnZW1lbnQgYW5kIE1hcmtldGluZyc+PHRhYmxlIGNsYXNzPSdub2JvcmRlcicgaWQ9J2ZhY3VsdHlUYWJsZXMnPjx0aGVhZD48dGggY29sc3Bhbj0nNCc+PGgyPkRlcGFydG1lbnQgb2YgTWFuYWdlbWVudCBhbmQgTWFya2V0aW5nPC9oMj48L3RoPjwvdGhlYWQ+PHRib2R5Pjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9NYXVyZWVuIEJvdXJhc3NhL2luZGV4LmFzcHgnPk1hdXJlZW4gQm91cmFzc2E8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5EZXBhcnRtZW50IEhlYWQ8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjc2PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yMTE5PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvVmVybiBCYWNoaXUvaW5kZXguYXNweCc+VmVybiBCYWNoaXU8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5MZWN0dXJlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4Ny4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvbGluZHNheS1ibGFpci9pbmRleC5hc3B4Jz5MaW5kc2F5IEJsYWlyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNTI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTM0NjY8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9WaW5jZSBCcnVuaS1Cb3NzaW8vaW5kZXguYXNweCc+VmluY2UgQnJ1bmktQm9zc2lvPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAyODIuMjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNzU4MDwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2RhbmEtY2FycmllcmUvaW5kZXguYXNweCc+RGFuYSBDYXJyaWVyZTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDg3LjE8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9UeWxlciBDYXNlL2luZGV4LmFzcHgnPlR5bGVyIENhc2U8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3Npc3RhbnQgUHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE1MzwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTIwOTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2phbmUtY2F1bGZpZWxkL2luZGV4LmFzcHgnPkphbmUgQ2F1bGZpZWxkPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TGVjdHVyZXI8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gODcuMjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0RhdmlkIERpIFpoYW5nL2luZGV4LmFzcHgnPkRhdmlkIERpIFpoYW5nPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA4MDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNTkyMDwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0MuIEJyb29rZSBEb2JuaS9pbmRleC5hc3B4Jz5DLiBCcm9va2UgRG9ibmk8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Qcm9mZXNzb3IgPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDI4MDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtODQ0MjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2FtYW5kYS1ldmVyaXR0Mi9pbmRleC5hc3B4Jz5BbWFuZGEgRXZlcml0dDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDUwPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0xMjI3PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQnJvb2tlIEtsYXNzZW4vaW5kZXguYXNweCc+QnJvb2tlIEtsYXNzZW48L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3Npc3RhbnQgUHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDI5MDwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNTE4MTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1dpbGxpYW0gTXVycGh5L2luZGV4LmFzcHgnPldpbGxpYW0gTXVycGh5PC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QXNzb2NpYXRlIFByb2Zlc3NvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNTE8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTI3Njk8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9Mb3JlbGVpIE5pY2tlbC9pbmRleC5hc3B4Jz5Mb3JlbGVpIE5pY2tlbDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDg5PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yMzg1PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQmFyYmFyYSBQaGlsbGlwcy9pbmRleC5hc3B4Jz5CYXJiYXJhIFBoaWxsaXBzPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZmVzc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDI4Ny4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni04NDQwPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTW9uaWNhLVNhcmdoaWUvaW5kZXguYXNweCc+TW9uaWNhIFPDonJnaGllIChQb3BhKTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc29jaWF0ZSBQcm9mZXNzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMjg5PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yODIzPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTGVlIFN3YW5zb24vaW5kZXguYXNweCc+TGVlIFN3YW5zb248L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5Bc3NvY2lhdGUgUHJvZmVzc29yIChPbiBMZWF2ZSk8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gODA8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTIxMjQ8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9EYXZpZCBXaWxsaWFtcy9pbmRleC5hc3B4Jz5EYXZpZCBXaWxsaWFtczwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkFzc29jaWF0ZSBQcm9mZXNzb3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gNzI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTg0MjM8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9zdGVwaGFuaWUteW9uZy9pbmRleC5hc3B4Jz5TdGVwaGFuaWUgWW9uZzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkxlY3R1cmVyPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDQ5PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+PC9wPjwvdGQ+PC90cj48L3Rib2R5PjwvdGFibGU+PC9kaXY+PGRpdiBpZD0nRWR3YXJkcyBDYXJlZXIgU2VydmljZXMnPjx0YWJsZSBjbGFzcz0nbm9ib3JkZXInIGlkPSdmYWN1bHR5VGFibGVzJz48dGhlYWQ+PHRoIGNvbHNwYW49JzQnPjxoMj5FZHdhcmRzIENhcmVlciBTZXJ2aWNlczwvaDI+PC90aD48L3RoZWFkPjx0Ym9keT48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvY2hyaXN0aW5hLWRvbGFuMS9pbmRleC5hc3B4Jz5DaHJpc3RpbmEgRG9sYW48L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5EaXJlY3RvciBvZiBVbmRlcmdyYWR1YXRlIFByb2dyYW1zIGFuZCBDYXJlZXIgU2VydmljZXM8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTcxPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0xODA3PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvTWFyeWFubiBSb3NzL2luZGV4LmFzcHgnPk1hcnlhbm4gUm9zczwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkNhcmVlciBEZXZlbG9wbWVudCBDb29yZGluYXRvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSA0MS4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNTg2PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvS2ltIFN0cmFuZGVuL2luZGV4LmFzcHgnPktpbSBTdHJhbmRlbjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkNvLW9wIENvb3JkaW5hdG9yIC8gQ2FyZWVyIEFkdmlzb3IgPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE0MS4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0xNDU0PC9wPjwvdGQ+PC90cj48L3Rib2R5PjwvdGFibGU+PC9kaXY+PGRpdiBpZD0nRWR3YXJkcyBFeGVjdXRpdmUgRWR1Y2F0aW9uJz48dGFibGUgY2xhc3M9J25vYm9yZGVyJyBpZD0nZmFjdWx0eVRhYmxlcyc+PHRoZWFkPjx0aCBjb2xzcGFuPSc0Jz48aDI+RWR3YXJkcyBFeGVjdXRpdmUgRWR1Y2F0aW9uPC9oMj48L3RoPjwvdGhlYWQ+PHRib2R5Pjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9Kb2FuIEFxdWluby9pbmRleC5hc3B4Jz5Kb2FuIEFxdWlubzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPk9mZmljZSBBZG1pbmlzdHJhdG9yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDExNzwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtODY4NjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2x1a2FzLWNvd2FuL2luZGV4LmFzcHgnPkx1a2FzIENvd2FuPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZ3JhbSBDb29yZGluYXRvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+KDMwNikgOTY2LTE3NDk8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9Bc2hsZXkgRHJvemRhL2luZGV4LmFzcHgnPkFzaGxleSBEcm96ZGE8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5NYW5hZ2VyLCBCdXNpbmVzcyBEZXZlbG9wbWVudDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxMjI8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTI0NDY8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9zYWRkaWEtamFtaWwvaW5kZXguYXNweCc+U2FkZGlhIEphbWlsPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZ3JhbSBDb29yZGluYXRvciBJbnRlcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxMTc8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTU1NzI8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9ldmVyLWxld2lzLWdlcm1haW4vaW5kZXguYXNweCc+RXZlciBMZXdpcyBHZXJtYWluPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+UHJvZ3JhbSBDb29yZGluYXRvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni01NjA4PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvUmViZWNjYS1TY2h3ZWlnaGFyZHQvaW5kZXguYXNweCc+UmViZWNjYSBTY2h3ZWlnaGFyZHQ8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5TZW5pb3IgUHJvZ3JhbSBDb29yZGluYXRvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxMjE8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTc5NTY8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9Cb2JiaSBTcGljZXIvaW5kZXguYXNweCc+Qm9iYmkgU3BpY2VyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TWFuYWdlciwgQnVzaW5lc3MgT3BlcmF0aW9uczwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxMTcuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTY1NDwvcD48L3RkPjwvdHI+PC90Ym9keT48L3RhYmxlPjwvZGl2PjxkaXYgaWQ9J0dyYWR1YXRlIFByb2dyYW1zIE9mZmljZSc+PHRhYmxlIGNsYXNzPSdub2JvcmRlcicgaWQ9J2ZhY3VsdHlUYWJsZXMnPjx0aGVhZD48dGggY29sc3Bhbj0nNCc+PGgyPkdyYWR1YXRlIFByb2dyYW1zIE9mZmljZTwvaDI+PC90aD48L3RoZWFkPjx0Ym9keT48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvc21pdGEtZ2FyZy9pbmRleC5hc3B4Jz5TbWl0YSBHYXJnPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+RGlyZWN0b3IsIEdyYWR1YXRlIFByb2dyYW1zPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE3MjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0VyaW4gQnVzc2llcmUvaW5kZXguYXNweCc+RXJpbiBCdXNzaWVyZTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPk1hbmFnZXIsIE1QQWNjIGFuZCBBY2NvdW50aW5nIEluaXRpYXRpdmVzPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE3MzwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTIyNzwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1dhbmRhIEdvbmRhL2luZGV4LmFzcHgnPldhbmRhIEdvbmRhPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+T2ZmaWNlIEFkbWluaXN0cmF0b3IgKE1QQWNjICYgTVNjKTwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxODU8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTE2NTY8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9DaGFuZHJhIEtyZXR6ZXIvaW5kZXguYXNweCc+Q2hhbmRyYSBLcmV0emVyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+QWRtaXNzaW9ucyBPZmZpY2VyIChNQkEgJiBNU2MpPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE3NTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMjU1NzwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0NvdXJ0bmV5IFNjaHJvZWRlci9pbmRleC5hc3B4Jz5Db3VydG5leSBTY2hyb2VkZXI8L2E+PC90ZD48dGQgd2lkdGg9JzIwMHB4Jz48cD5NYW5hZ2VyLCBNQkEgYW5kIE1TYyBQcm9ncmFtcyA8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTc2PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni04MzkyPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQWxleC1XZXJlbmthL2luZGV4LmFzcHgnPkFsZXggV2VyZW5rYTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPk1QQWNjIFByb2dyYW0gQWR2aXNvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNzQ8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTc4OTg8L3A+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT48L2Rpdj48ZGl2IGlkPSdTdHVkZW50IGFuZCBGYWN1bHR5IFNlcnZpY2VzIE9mZmljZSc+PHRhYmxlIGNsYXNzPSdub2JvcmRlcicgaWQ9J2ZhY3VsdHlUYWJsZXMnPjx0aGVhZD48dGggY29sc3Bhbj0nNCc+PGgyPlN0dWRlbnQgYW5kIEZhY3VsdHkgU2VydmljZXMgT2ZmaWNlPC9oMj48L3RoPjwvdGhlYWQ+PHRib2R5Pjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9DaHJpc3RpbmEgRG9sYW4vaW5kZXguYXNweCc+Q2hyaXN0aW5hIERvbGFuPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+RGlyZWN0b3Igb2YgVW5kZXJncmFkdWF0ZSBQcm9ncmFtcyBhbmQgQ2FyZWVyIFNlcnZpY2VzPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE3MTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTgwNzwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0hlYXRoZXIgQmFlcmcvaW5kZXguYXNweCc+SGVhdGhlciBCYWVyZzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPk9mZmljZSBBZG1pbmlzdHJhdG9yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE4NTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMjU1ODwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L25pY29sZS1kZW5ib3cvaW5kZXguYXNweCc+Tmljb2xlIERlbmJvdzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkluZGlnZW5vdXMgSW5pdGlhdGl2ZXMsIENhcmVlciBhbmQgUHJvZ3JhbXMgQWR2aXNvciAoQ1BBIFNhc2thdGNoZXdhbik8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTg1PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNTQxPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvRGViYmllIEVucy9pbmRleC5hc3B4Jz5EZWJiaWUgRW5zPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+T2ZmaWNlIEFkbWluaXN0cmF0b3I8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTg1PC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni00Nzk3PC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvVmFuZXNzYSBMZW9uL2luZGV4LmFzcHgnPlZhbmVzc2EgTGVvbjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlVuZGVyZ3JhZHVhdGUgUmVjcnVpdG1lbnQgJiBQcm9ncmFtcyBBZHZpc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE4NjwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMTMwNzwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1RhcmEgTHVjeXNoeW4vaW5kZXguYXNweCc+VGFyYSBMdWN5c2h5bjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlVuZGVyZ3JhZHVhdGUgUmV0ZW50aW9uICYgUHJvZ3JhbXMgQWR2aXNvcjwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxODc8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTcxMzg8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9CcmVuZGEgT3Jpc2NodWsvaW5kZXguYXNweCc+QnJlbmRhIE9yaXNjaHVrPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+RmFjdWx0eSAmIFN0dWRlbnQgU3VwcG9ydDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNzk8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTg0MTg8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9qb2NlbHluLW9ybWVyb2QvaW5kZXguYXNweCc+Sm9jZWx5biBPcm1lcm9kPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+SW5kaWdlbm91cyBBY2hpZXZlbWVudCBBZHZpc29yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD48L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD4zMDYtOTY2LTcxMzg8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS95aW1pa2EtcGx1bXB0cmUvaW5kZXguYXNweCc+WWltaWthIFBsdW1wdHJlIDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPk9mZmljZSBBZG1pbmlzdHJhdG9yPC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE4NTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtNDc4NTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L2RhbmllbGxlLXJ1ZHVsaWVyL2luZGV4LmFzcHgnPkRhbmllbGxlIFJ1ZHVsaWVyPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+TWFuYWdlciwgU3R1ZGVudCBTZXJ2aWNlczwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxODg8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9JzE1MHB4Jz48YSBocmVmPScvZmFjdWx0eS9zaGFubm9uLXNleW1vdXIvaW5kZXguYXNweCc+U2hhbm5vbiBTZXltb3VyIDwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkNsZXJpY2FsIEFzc2lzdGFudDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNzk8L3A+PC90ZD48dGQgd2lkdGg9JzE0MHB4Jz48cD48L3A+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT48L2Rpdj48ZGl2IGlkPSdUZWNobm9sb2d5IFN1cHBvcnQgQ2VudHJlJz48dGFibGUgY2xhc3M9J25vYm9yZGVyJyBpZD0nZmFjdWx0eVRhYmxlcyc+PHRoZWFkPjx0aCBjb2xzcGFuPSc0Jz48aDI+VGVjaG5vbG9neSBTdXBwb3J0IENlbnRyZTwvaDI+PC90aD48L3RoZWFkPjx0Ym9keT48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvUnlhbiBEaWVrZW1hL2luZGV4LmFzcHgnPlJ5YW4gRGlla2VtYTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlByb2dyYW1tZXIgQW5hbHlzdDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNDMuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMjU5NTwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L1JvYiBIaXBraW4vaW5kZXguYXNweCc+Um9iIEhpcGtpbjwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPk1hbmFnZXIsIFRlY2hub2xvZ3kgU3VwcG9ydCBTZXJ2aWNlczwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNDNCPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNTkzPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvUnlhbiBIb2NrbGV5L2luZGV4LmFzcHgnPlJ5YW4gSG9ja2xleTwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPlNvZnR3YXJlIFRyYWluaW5nIGFuZCBTdXBwb3J0IFNwZWNpYWxpc3Q8L3A+PC90ZD48dGQgd2lkdGg9Jzc1cHgnPjxwPlJvb20gMTQzPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNTkxPC9wPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPScxNTBweCc+PGEgaHJlZj0nL2ZhY3VsdHkvQWxla3NhbmRhciBJbGljL2luZGV4LmFzcHgnPkFsZWtzYW5kYXIgSWxpYzwvYT48L3RkPjx0ZCB3aWR0aD0nMjAwcHgnPjxwPkRldmVsb3BlciAvIFN1cHBvcnQgU3BlY2lhbGlzdDwvcD48L3RkPjx0ZCB3aWR0aD0nNzVweCc+PHA+Um9vbSAxNDMuMTwvcD48L3RkPjx0ZCB3aWR0aD0nMTQwcHgnPjxwPjMwNi05NjYtMjU5NjwvcD48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0nMTUwcHgnPjxhIGhyZWY9Jy9mYWN1bHR5L0pvcmRhbiBXb25nL2luZGV4LmFzcHgnPkpvcmRhbiBXb25nPC9hPjwvdGQ+PHRkIHdpZHRoPScyMDBweCc+PHA+U3VwcG9ydCBTcGVjaWFsaXN0PC9wPjwvdGQ+PHRkIHdpZHRoPSc3NXB4Jz48cD5Sb29tIDE0My4xPC9wPjwvdGQ+PHRkIHdpZHRoPScxNDBweCc+PHA+MzA2LTk2Ni0yNTk0PC9wPjwvdGQ+PC90cj48L3Rib2R5PjwvdGFibGU+PC9kaXY+ZGQYclOUQBUGuPAagOMLloPzMICrzLiruXFH79OIfjOQwQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="84E5C31B" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALuiQIVyybjxJzJ7pen2NS2LXPs2EyRTnGnLGifD6ByP6SVaVRDFVX95OQQVYZgHBPF6+RmYzbTkcv2cHa/oRTQ" />
+
+        <div class="row">
+           <div class="large-8 large-offset-2 columns">
+             <br/><br/><br/><br/>
+               <h1>Edwards Faculty & Staff Directory</h1>
+           <h3>Search Our Faculty & Staff</h3>
+             <input name="ctl00$id_search" type="text" id="id_search" /> 
+               <p>Search by name, phone number or room</p>
+            
+   
+
+    <div id='Dean's Office'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Dean's Office</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Keith Willoughby/index.aspx'>Keith Willoughby</a></td><td width='200px'><p>Dean of the Edwards School of Business</p></td><td width='75px'><p>Room 184.1</p></td><td width='140px'><p>306-966-4786</p></td></tr><tr><td width='150px'><a href='/faculty/Sharon Evans/index.aspx'>Sharon Evans</a></td><td width='200px'><p>Executive Assistant to Dean Willoughby</p></td><td width='75px'><p>Room 184</p></td><td width='140px'><p>306-966-4786</p></td></tr><tr><td width='150px'><a href='/faculty/Marjorie Delbaere/index.aspx'>Marjorie Delbaere</a></td><td width='200px'><p>Associate Dean, Research, Graduate Programs and Faculty Relations</p></td><td width='75px'><p>Room 180</p></td><td width='140px'><p>306-966-5916</p></td></tr><tr><td width='150px'><a href='/faculty/Noreen Mahoney/index.aspx'>Noreen Mahoney</a></td><td width='200px'><p>Associate Dean, Students and Degree Programs </p></td><td width='75px'><p>Room 177.1</p></td><td width='140px'><p>306-966-2556</p></td></tr><tr><td width='150px'><a href='/faculty/megan-cantwell/index.aspx'>Megan Cantwell</a></td><td width='200px'><p>Director, College Advancement</p></td><td width='75px'><p>Room 75</p></td><td width='140px'><p>306-966-8853</p></td></tr><tr><td width='150px'><a href='/faculty/anna-burton/index.aspx'>Anna Burton</a></td><td width='200px'><p>Development Officer</p></td><td width='75px'><p>Room 76.1</p></td><td width='140px'><p>306-966-7471</p></td></tr><tr><td width='150px'><a href='/faculty/Natasha Katchuk/index.aspx'>Natasha Katchuk</a></td><td width='200px'><p>Senior Communications Officer</p></td><td width='75px'><p>Room 76.2</p></td><td width='140px'><p>306-966-2811</p></td></tr><tr><td width='150px'><a href='/faculty/carla-knoll/index.aspx'>Carla Knoll</a></td><td width='200px'><p>Finance SBA </p></td><td width='75px'><p>Room 183.1</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/kailey-lavallee/index.aspx'>Kailey Lavallee</a></td><td width='200px'><p>Program Marketing Officer</p></td><td width='75px'><p>Room 76.2</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Joelena Leader/index.aspx'>Joelena Leader</a></td><td width='200px'><p>Research Facilitator </p></td><td width='75px'><p>Room 178</p></td><td width='140px'><p>306-966-5297</p></td></tr><tr><td width='150px'><a href='/faculty/Scott McCreath/index.aspx'>Scott McCreath</a></td><td width='200px'><p>Executive in Residence</p></td><td width='75px'><p>Room 82.1</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Vicky Parohl/index.aspx'>Vicky Parohl</a></td><td width='200px'><p>Manager, Accreditation and Strategic Initiatives</p></td><td width='75px'><p>Room 177</p></td><td width='140px'><p>306-966-7362</p></td></tr><tr><td width='150px'><a href='/faculty/rick-reid/index.aspx'>Rick Reid</a></td><td width='200px'><p>Human Resources Strategic Business Advisor</p></td><td width='75px'><p>Room 177.1</p></td><td width='140px'><p>306-966-6598</p></td></tr><tr><td width='150px'><a href='/faculty/Marvin Romanow/index.aspx'>Marvin Romanow</a></td><td width='200px'><p>Executive in Residence</p></td><td width='75px'><p>Room 82.1</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/spencer-smit/index.aspx'>Spencer Smit</a></td><td width='200px'><p>Facilities Strategic Business Advisor</p></td><td width='75px'><p></p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/carlee-snow/index.aspx'>Carlee Snow</a></td><td width='200px'><p>Advancement Engagement Officer</p></td><td width='75px'><p>Room 76</p></td><td width='140px'><p>306-966-5437</p></td></tr><tr><td width='150px'><a href='/faculty/Donalda Svarc/index.aspx'>Donalda Svarc</a></td><td width='200px'><p>Donor Relations Coordinator (On Leave)</p></td><td width='75px'><p>Room 76</p></td><td width='140px'><p>306-966-5437</p></td></tr></tbody></table></div><div id='Department of Accounting'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Department of Accounting</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Devan Mescall/index.aspx'>Devan Mescall</a></td><td width='200px'><p>Acting Department Head</p></td><td width='75px'><p>Room 275</p></td><td width='140px'><p>306-966-2827</p></td></tr><tr><td width='150px'><a href='/faculty/Hal Elkins/index.aspx'>Hal Elkins</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 279</p></td><td width='140px'><p>306-966-5810</p></td></tr><tr><td width='150px'><a href='/faculty/Gary Entwistle/index.aspx'>Gary Entwistle</a></td><td width='200px'><p>Professor</p></td><td width='75px'><p>Room 285</p></td><td width='140px'><p>306-966-8403</p></td></tr><tr><td width='150px'><a href='/faculty/Kenneth Fox/index.aspx'>Kenneth Fox</a></td><td width='200px'><p>Assistant Professor </p></td><td width='75px'><p>Room 284</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/michael-gonari/index.aspx'>Michael Gonari</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 241</p></td><td width='140px'><p>306-966-2437</p></td></tr><tr><td width='150px'><a href='/faculty/Michael Hernik/index.aspx'>Michael Hernik</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 288</p></td><td width='140px'><p>306-966-2954</p></td></tr><tr><td width='150px'><a href='/faculty/Nathalie Johnstone/index.aspx'>Nathalie Johnstone</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 277.1</p></td><td width='140px'><p>306-966-6478</p></td></tr><tr><td width='150px'><a href='/faculty/Suresh Kalagnanam/index.aspx'>Suresh Kalagnanam</a></td><td width='200px'><p>Associate Professor </p></td><td width='75px'><p>Room 273</p></td><td width='140px'><p>306-966-8404</p></td></tr><tr><td width='150px'><a href='/faculty/Douglas Kalesnikoff/index.aspx'>Douglas Kalesnikoff</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 274</p></td><td width='140px'><p>306-966-1471</p></td></tr><tr><td width='150px'><a href='/faculty/Mark Klassen/index.aspx'>Mark Klassen</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 282.1</p></td><td width='140px'><p>306-966-1300</p></td></tr><tr><td width='150px'><a href='/faculty/Brandy Mackintosh/index.aspx'>Brandy Mackintosh</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 287.2</p></td><td width='140px'><p>306-966-7749</p></td></tr><tr><td width='150px'><a href='/faculty/Han-up Park/index.aspx'>Han-Up Park</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 283</p></td><td width='140px'><p>306-966-4538</p></td></tr><tr><td width='150px'><a href='/faculty/nikki-schaan/index.aspx'>Nikki Schaan</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 51</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Regan Schmidt/index.aspx'>Regan Schmidt</a></td><td width='200px'><p>Professor</p></td><td width='75px'><p>Room 271</p></td><td width='140px'><p>306-966-4438</p></td></tr><tr><td width='150px'><a href='/faculty/Norman Sheehan/index.aspx'>Norman Sheehan</a></td><td width='200px'><p>Professor </p></td><td width='75px'><p>Room 286</p></td><td width='140px'><p>306-966-4801</p></td></tr><tr><td width='150px'><a href='/faculty/Ganesh Vaidyanathan/index.aspx'>Ganesh Vaidyanathan</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 272</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/gerry-visentini/index.aspx'>Gerry Visentini</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 241.1</p></td><td width='140px'><p></p></td></tr></tbody></table></div><div id='Department of Finance and Management Science'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Department of Finance and Management Science</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Craig Wilson/index.aspx'>Craig Wilson</a></td><td width='200px'><p>Department Head</p></td><td width='75px'><p>Room 74</p></td><td width='140px'><p>306-966-8430</p></td></tr><tr><td width='150px'><a href='/faculty/carolyn-augusta/index.aspx'>Carolyn Augusta</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 88</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/mustafa-avci/index.aspx'>Mustafa Avci</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 88</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/James Cao/index.aspx'>James Cao</a></td><td width='200px'><p>Assistant Professor (On Leave)</p></td><td width='75px'><p>Room 51</p></td><td width='140px'><p>306-966-5983</p></td></tr><tr><td width='150px'><a href='/faculty/Amarjit Gill/index.aspx'>Amarjit Gill</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 55</p></td><td width='140px'><p>306-966-2547</p></td></tr><tr><td width='150px'><a href='/faculty/Mehran Hojati/index.aspx'>Mehran Hojati</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 73</p></td><td width='140px'><p>306-966-8428</p></td></tr><tr><td width='150px'><a href='/faculty/Mohsin Jat/index.aspx'>Mohsin  Jat</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 54</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Brian Lane/index.aspx'>Brian Lane</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 71</p></td><td width='140px'><p>306-966-8425</p></td></tr><tr><td width='150px'><a href='/faculty/Abdullah Mamun/index.aspx'>Abdullah Mamun</a></td><td width='200px'><p>Associate Professor </p></td><td width='75px'><p>Room 78</p></td><td width='140px'><p>306-966-1862</p></td></tr><tr><td width='150px'><a href='/faculty/Min Maung/index.aspx'>Min Maung</a></td><td width='200px'><p>Associate Professor (On Leave)</p></td><td width='75px'><p>Room 79</p></td><td width='140px'><p>306-966-2829</p></td></tr><tr><td width='150px'><a href='/faculty/Dev Mishra/index.aspx'>Dev Mishra</a></td><td width='200px'><p>Professor </p></td><td width='75px'><p>Room 83</p></td><td width='140px'><p>306-966-8457</p></td></tr><tr><td width='150px'><a href='/faculty/somreeta-mukherjee/index.aspx'>Somreeta Mukherjee</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p></p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Marie Racine/index.aspx'>Marie Racine</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 278</p></td><td width='140px'><p>306-966-8406</p></td></tr><tr><td width='150px'><a href='/faculty/Hamed Samarghandi/index.aspx'>Hamed Samarghandi</a></td><td width='200px'><p>Associate Professor of Management Science</p></td><td width='75px'><p>Room 90</p></td><td width='140px'><p>306-966-1278</p></td></tr><tr><td width='150px'><a href='/faculty/sheng-tang/index.aspx'>Sheng Tang</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 148</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/George Tannous/index.aspx'>George Tannous</a></td><td width='200px'><p>Professor </p></td><td width='75px'><p>Room 85</p></td><td width='140px'><p>306-966-6695</p></td></tr><tr><td width='150px'><a href='/faculty/Shan Wang/index.aspx'>Shan Wang</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 82.2</p></td><td width='140px'><p>306-966-7585</p></td></tr><tr><td width='150px'><a href='/faculty/Fan Yang/index.aspx'>Fan Yang</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 86</p></td><td width='140px'><p>306-966-7938</p></td></tr></tbody></table></div><div id='Department of Human Resources and Organizational Behaviour'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Department of Human Resources and Organizational Behaviour</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Joseph Schmidt/index.aspx'>Joseph Schmidt</a></td><td width='200px'><p>Department Head</p></td><td width='75px'><p>Room 277.2</p></td><td width='140px'><p>306-966-4741</p></td></tr><tr><td width='150px'><a href='/faculty/Samuel Goldstein/index.aspx'>Samuel Goldstein</a></td><td width='200px'><p>Assistant Professor </p></td><td width='75px'><p></p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/David Kraichy/index.aspx'>David Kraichy</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 155</p></td><td width='140px'><p>306-966-8013</p></td></tr><tr><td width='150px'><a href='/faculty/Trevor Maber/index.aspx'>Trevor Maber</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 53</p></td><td width='140px'><p>306-966-4241</p></td></tr><tr><td width='150px'><a href='/faculty/leslie-martin/index.aspx'>Leslie Martin</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 156</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Marc Mentzer/index.aspx'>Marc Mentzer</a></td><td width='200px'><p>Professor</p></td><td width='75px'><p>Room 84</p></td><td width='140px'><p>306-966-8458</p></td></tr><tr><td width='150px'><a href='/faculty/dionne-pohler/index.aspx'>Dionne Pohler</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 150</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Megan Walsh/index.aspx'>Megan Walsh</a></td><td width='200px'><p>Assistant Professor (On Leave)</p></td><td width='75px'><p>Room 152</p></td><td width='140px'><p>306-966-1930</p></td></tr><tr><td width='150px'><a href='/faculty/Scott Walsworth/index.aspx'>Scott Walsworth</a></td><td width='200px'><p>Associate Professor </p></td><td width='75px'><p>Room 154</p></td><td width='140px'><p>306-966-7173</p></td></tr><tr><td width='150px'><a href='/faculty/claudia-wendrich/index.aspx'>Claudia Wendrich</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 149</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Chelsea Willness/index.aspx'>Chelsea Willness</a></td><td width='200px'><p>Professor</p></td><td width='75px'><p></p></td><td width='140px'><p></p></td></tr></tbody></table></div><div id='Department of Management and Marketing'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Department of Management and Marketing</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Maureen Bourassa/index.aspx'>Maureen Bourassa</a></td><td width='200px'><p>Department Head</p></td><td width='75px'><p>Room 276</p></td><td width='140px'><p>306-966-2119</p></td></tr><tr><td width='150px'><a href='/faculty/Vern Bachiu/index.aspx'>Vern Bachiu</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 87.1</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/lindsay-blair/index.aspx'>Lindsay Blair</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 52</p></td><td width='140px'><p>306-966-3466</p></td></tr><tr><td width='150px'><a href='/faculty/Vince Bruni-Bossio/index.aspx'>Vince Bruni-Bossio</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 282.2</p></td><td width='140px'><p>306-966-7580</p></td></tr><tr><td width='150px'><a href='/faculty/dana-carriere/index.aspx'>Dana Carriere</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 87.1</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Tyler Case/index.aspx'>Tyler Case</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 153</p></td><td width='140px'><p>306-966-1209</p></td></tr><tr><td width='150px'><a href='/faculty/jane-caulfield/index.aspx'>Jane Caulfield</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 87.2</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/David Di Zhang/index.aspx'>David Di Zhang</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 80</p></td><td width='140px'><p>306-966-5920</p></td></tr><tr><td width='150px'><a href='/faculty/C. Brooke Dobni/index.aspx'>C. Brooke Dobni</a></td><td width='200px'><p>Professor </p></td><td width='75px'><p>Room 280</p></td><td width='140px'><p>306-966-8442</p></td></tr><tr><td width='150px'><a href='/faculty/amanda-everitt2/index.aspx'>Amanda Everitt</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 50</p></td><td width='140px'><p>306-966-1227</p></td></tr><tr><td width='150px'><a href='/faculty/Brooke Klassen/index.aspx'>Brooke Klassen</a></td><td width='200px'><p>Assistant Professor</p></td><td width='75px'><p>Room 290</p></td><td width='140px'><p>306-966-5181</p></td></tr><tr><td width='150px'><a href='/faculty/William Murphy/index.aspx'>William Murphy</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 151</p></td><td width='140px'><p>306-966-2769</p></td></tr><tr><td width='150px'><a href='/faculty/Lorelei Nickel/index.aspx'>Lorelei Nickel</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 89</p></td><td width='140px'><p>306-966-2385</p></td></tr><tr><td width='150px'><a href='/faculty/Barbara Phillips/index.aspx'>Barbara Phillips</a></td><td width='200px'><p>Professor</p></td><td width='75px'><p>Room 287.1</p></td><td width='140px'><p>306-966-8440</p></td></tr><tr><td width='150px'><a href='/faculty/Monica-Sarghie/index.aspx'>Monica Sârghie (Popa)</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 289</p></td><td width='140px'><p>306-966-2823</p></td></tr><tr><td width='150px'><a href='/faculty/Lee Swanson/index.aspx'>Lee Swanson</a></td><td width='200px'><p>Associate Professor (On Leave)</p></td><td width='75px'><p>Room 80</p></td><td width='140px'><p>306-966-2124</p></td></tr><tr><td width='150px'><a href='/faculty/David Williams/index.aspx'>David Williams</a></td><td width='200px'><p>Associate Professor</p></td><td width='75px'><p>Room 72</p></td><td width='140px'><p>306-966-8423</p></td></tr><tr><td width='150px'><a href='/faculty/stephanie-yong/index.aspx'>Stephanie Yong</a></td><td width='200px'><p>Lecturer</p></td><td width='75px'><p>Room 49</p></td><td width='140px'><p></p></td></tr></tbody></table></div><div id='Edwards Career Services'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Edwards Career Services</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/christina-dolan1/index.aspx'>Christina Dolan</a></td><td width='200px'><p>Director of Undergraduate Programs and Career Services</p></td><td width='75px'><p>Room 171</p></td><td width='140px'><p>306-966-1807</p></td></tr><tr><td width='150px'><a href='/faculty/Maryann Ross/index.aspx'>Maryann Ross</a></td><td width='200px'><p>Career Development Coordinator</p></td><td width='75px'><p>Room 41.1</p></td><td width='140px'><p>306-966-2586</p></td></tr><tr><td width='150px'><a href='/faculty/Kim Stranden/index.aspx'>Kim Stranden</a></td><td width='200px'><p>Co-op Coordinator / Career Advisor </p></td><td width='75px'><p>Room 141.1</p></td><td width='140px'><p>306-966-1454</p></td></tr></tbody></table></div><div id='Edwards Executive Education'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Edwards Executive Education</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Joan Aquino/index.aspx'>Joan Aquino</a></td><td width='200px'><p>Office Administrator</p></td><td width='75px'><p>Room 117</p></td><td width='140px'><p>306-966-8686</p></td></tr><tr><td width='150px'><a href='/faculty/lukas-cowan/index.aspx'>Lukas Cowan</a></td><td width='200px'><p>Program Coordinator</p></td><td width='75px'><p></p></td><td width='140px'><p>(306) 966-1749</p></td></tr><tr><td width='150px'><a href='/faculty/Ashley Drozda/index.aspx'>Ashley Drozda</a></td><td width='200px'><p>Manager, Business Development</p></td><td width='75px'><p>Room 122</p></td><td width='140px'><p>306-966-2446</p></td></tr><tr><td width='150px'><a href='/faculty/saddia-jamil/index.aspx'>Saddia Jamil</a></td><td width='200px'><p>Program Coordinator Inter</p></td><td width='75px'><p>Room 117</p></td><td width='140px'><p>306-966-5572</p></td></tr><tr><td width='150px'><a href='/faculty/ever-lewis-germain/index.aspx'>Ever Lewis Germain</a></td><td width='200px'><p>Program Coordinator</p></td><td width='75px'><p></p></td><td width='140px'><p>306-966-5608</p></td></tr><tr><td width='150px'><a href='/faculty/Rebecca-Schweighardt/index.aspx'>Rebecca Schweighardt</a></td><td width='200px'><p>Senior Program Coordinator</p></td><td width='75px'><p>Room 121</p></td><td width='140px'><p>306-966-7956</p></td></tr><tr><td width='150px'><a href='/faculty/Bobbi Spicer/index.aspx'>Bobbi Spicer</a></td><td width='200px'><p>Manager, Business Operations</p></td><td width='75px'><p>Room 117.1</p></td><td width='140px'><p>306-966-1654</p></td></tr></tbody></table></div><div id='Graduate Programs Office'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Graduate Programs Office</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/smita-garg/index.aspx'>Smita Garg</a></td><td width='200px'><p>Director, Graduate Programs</p></td><td width='75px'><p>Room 172</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/Erin Bussiere/index.aspx'>Erin Bussiere</a></td><td width='200px'><p>Manager, MPAcc and Accounting Initiatives</p></td><td width='75px'><p>Room 173</p></td><td width='140px'><p>306-966-1227</p></td></tr><tr><td width='150px'><a href='/faculty/Wanda Gonda/index.aspx'>Wanda Gonda</a></td><td width='200px'><p>Office Administrator (MPAcc & MSc)</p></td><td width='75px'><p>Room 185</p></td><td width='140px'><p>306-966-1656</p></td></tr><tr><td width='150px'><a href='/faculty/Chandra Kretzer/index.aspx'>Chandra Kretzer</a></td><td width='200px'><p>Admissions Officer (MBA & MSc)</p></td><td width='75px'><p>Room 175</p></td><td width='140px'><p>306-966-2557</p></td></tr><tr><td width='150px'><a href='/faculty/Courtney Schroeder/index.aspx'>Courtney Schroeder</a></td><td width='200px'><p>Manager, MBA and MSc Programs </p></td><td width='75px'><p>Room 176</p></td><td width='140px'><p>306-966-8392</p></td></tr><tr><td width='150px'><a href='/faculty/Alex-Werenka/index.aspx'>Alex Werenka</a></td><td width='200px'><p>MPAcc Program Advisor</p></td><td width='75px'><p>Room 174</p></td><td width='140px'><p>306-966-7898</p></td></tr></tbody></table></div><div id='Student and Faculty Services Office'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Student and Faculty Services Office</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Christina Dolan/index.aspx'>Christina Dolan</a></td><td width='200px'><p>Director of Undergraduate Programs and Career Services</p></td><td width='75px'><p>Room 171</p></td><td width='140px'><p>306-966-1807</p></td></tr><tr><td width='150px'><a href='/faculty/Heather Baerg/index.aspx'>Heather Baerg</a></td><td width='200px'><p>Office Administrator</p></td><td width='75px'><p>Room 185</p></td><td width='140px'><p>306-966-2558</p></td></tr><tr><td width='150px'><a href='/faculty/nicole-denbow/index.aspx'>Nicole Denbow</a></td><td width='200px'><p>Indigenous Initiatives, Career and Programs Advisor (CPA Saskatchewan)</p></td><td width='75px'><p>Room 185</p></td><td width='140px'><p>306-966-2541</p></td></tr><tr><td width='150px'><a href='/faculty/Debbie Ens/index.aspx'>Debbie Ens</a></td><td width='200px'><p>Office Administrator</p></td><td width='75px'><p>Room 185</p></td><td width='140px'><p>306-966-4797</p></td></tr><tr><td width='150px'><a href='/faculty/Vanessa Leon/index.aspx'>Vanessa Leon</a></td><td width='200px'><p>Undergraduate Recruitment & Programs Advisor</p></td><td width='75px'><p>Room 186</p></td><td width='140px'><p>306-966-1307</p></td></tr><tr><td width='150px'><a href='/faculty/Tara Lucyshyn/index.aspx'>Tara Lucyshyn</a></td><td width='200px'><p>Undergraduate Retention & Programs Advisor</p></td><td width='75px'><p>Room 187</p></td><td width='140px'><p>306-966-7138</p></td></tr><tr><td width='150px'><a href='/faculty/Brenda Orischuk/index.aspx'>Brenda Orischuk</a></td><td width='200px'><p>Faculty & Student Support</p></td><td width='75px'><p>Room 179</p></td><td width='140px'><p>306-966-8418</p></td></tr><tr><td width='150px'><a href='/faculty/jocelyn-ormerod/index.aspx'>Jocelyn Ormerod</a></td><td width='200px'><p>Indigenous Achievement Advisor</p></td><td width='75px'><p></p></td><td width='140px'><p>306-966-7138</p></td></tr><tr><td width='150px'><a href='/faculty/yimika-plumptre/index.aspx'>Yimika Plumptre </a></td><td width='200px'><p>Office Administrator</p></td><td width='75px'><p>Room 185</p></td><td width='140px'><p>306-966-4785</p></td></tr><tr><td width='150px'><a href='/faculty/danielle-rudulier/index.aspx'>Danielle Rudulier</a></td><td width='200px'><p>Manager, Student Services</p></td><td width='75px'><p>Room 188</p></td><td width='140px'><p></p></td></tr><tr><td width='150px'><a href='/faculty/shannon-seymour/index.aspx'>Shannon Seymour </a></td><td width='200px'><p>Clerical Assistant</p></td><td width='75px'><p>Room 179</p></td><td width='140px'><p></p></td></tr></tbody></table></div><div id='Technology Support Centre'><table class='noborder' id='facultyTables'><thead><th colspan='4'><h2>Technology Support Centre</h2></th></thead><tbody><tr><td width='150px'><a href='/faculty/Ryan Diekema/index.aspx'>Ryan Diekema</a></td><td width='200px'><p>Programmer Analyst</p></td><td width='75px'><p>Room 143.1</p></td><td width='140px'><p>306-966-2595</p></td></tr><tr><td width='150px'><a href='/faculty/Rob Hipkin/index.aspx'>Rob Hipkin</a></td><td width='200px'><p>Manager, Technology Support Services</p></td><td width='75px'><p>Room 143B</p></td><td width='140px'><p>306-966-2593</p></td></tr><tr><td width='150px'><a href='/faculty/Ryan Hockley/index.aspx'>Ryan Hockley</a></td><td width='200px'><p>Software Training and Support Specialist</p></td><td width='75px'><p>Room 143</p></td><td width='140px'><p>306-966-2591</p></td></tr><tr><td width='150px'><a href='/faculty/Aleksandar Ilic/index.aspx'>Aleksandar Ilic</a></td><td width='200px'><p>Developer / Support Specialist</p></td><td width='75px'><p>Room 143.1</p></td><td width='140px'><p>306-966-2596</p></td></tr><tr><td width='150px'><a href='/faculty/Jordan Wong/index.aspx'>Jordan Wong</a></td><td width='200px'><p>Support Specialist</p></td><td width='75px'><p>Room 143.1</p></td><td width='140px'><p>306-966-2594</p></td></tr></tbody></table></div>
+      
+   
+
+      </div>
+        <div class="large-2 columns"> </div>
+    </div>
+    </form>
+    </div> </div></div>    <footer class="row uofs-footer">
+                <div class="large-12 column large-centered">
+  <ul class="footer-links">
+  <li><a href="//www.edwards.usask.ca/contact.aspx">Contact Us</a>  |</li>
+ 
+  <li><a href="//www.edwards.usask.ca/applynow.aspx">Apply Now</a> </li>
+     </ul>                                
+    <ul class="footer-social">
+<li><a href="https://www.facebook.com/edwardsschoolofbusiness/?ref=ts" target="_blank"><span class="fa-stack fa-lg ">
+  <i class="fa fa-circle fa-stack-2x hvr-radial-out"></i>
+  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+</span>
+      </a></li>
+<li>
+<a href="https://twitter.com/edwards_school" target="_blank">      
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+</span>
+</a></li>
+<li><a href="https://www.instagram.com/edwards_school/" target="_blank">
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+</span>
+</a></li>
+<li><a href="https://www.youtube.com/user/ESBUofS" target="_blank">
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
+</span>
+</a></li>
+<li><a href="https://www.linkedin.com/company/316740" target="_blank">
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+</span>
+</a></li>
+
+
+
+<li><a href="tel:306-966-4785">
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+</span>
+</a></li>
+<li><a href="mailto:undergrad@edwards.usask.ca">
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+</span>
+   </a></li>
+                                                                            
+        </ul>
+                   <ul class="footer-social">
+                      
+                       <li><a class="uofs-footer-logo edwards-footer-logo" style="width:130px;height:40px;"" href="//www.edwards.usask.ca/"><img src="//www.edwards.usask.ca/img/logos/edwards_sm-white.jpg"/></a></li>
+                       <li><a class="uofs-footer-logo edwards-footer-logo" style="width:130px;height:40px;"" href="//www.aacsb.edu/accreditation"><img style="height:37px;" src="//www.edwards.usask.ca/images/AACSB-logo-horizontal.png"/></a></li>
+
+                      
+                       <li> <a class="uofs-footer-logo" href="//www.usask.ca/" style="width:149px;height:40px;"><img src="//usaskcdn.ca/limestone/stable/img/uofs-logo.png"/></a></li>
+                       </ul>
+                    <p>University of Saskatchewan<br/><a href="//www.usask.ca/disclaimer.php">Disclaimer</a> | <a href="//www.usask.ca/privacy.php">Privacy</a></p></li>
+                   
+                </div>
+            </footer> <script src="/js/vendor/jquery.min.js"></script>
+
+
+   
+     <script type="text/javascript" src="/js/slick.min.js"></script>  
+    <script src="/js/foundationv2.min.js"></script>
+    <script  type="text/javascript">$(document).foundation();</script>
+    
+  
+       
+  
+        
+    
+    <script type="text/javascript">
+		$(function() {
+    $('.carousel_slick').slick({
+     infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 1, autoplay: true,arrows:true,
+  prevArrow: $('.prev'),
+nextArrow: $('.next'),
+  autoplaySpeed: 6000,
+   responsive: [
+    {
+      breakpoint: 1026,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 850,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+  });
+
+
+
+
+
+});
+    
+     
+  
+     
+     
+     $('.dropdownMenu').hide();
+     $("#mainMenu").on("click", function(e){
+                
+          $('.dropdownMenu').slideToggle();
+         
+        });
+     
+ 
+   
+        
+</script>
+<script>
+    
+    /* Light YouTube Embeds by @labnol */
+    
+    /* Web: http://labnol.org/?p=27941 */
+    
+    document.addEventListener("DOMContentLoaded",
+        function() {
+            var div, n,
+                v = document.getElementsByClassName("youtube");
+            for (n = 0; n < v.length; n++) {
+                div = document.createElement("div");
+                div.setAttribute("data-id", v[n].dataset.id);
+                div.innerHTML = labnolThumb(v[n].dataset.id);
+                div.onclick = labnolIframe;
+                v[n].appendChild(div);
+            }
+        });
+
+    function labnolThumb(id) {
+        var thumb = '<img src="https://i.ytimg.com/vi/ID/maxresdefault.jpg">',
+            play = '<div class="play"></div>';
+        return thumb.replace("ID", id) + play;
+    }
+
+    function labnolIframe() {
+        var iframe = document.createElement("iframe");
+        iframe.setAttribute("src", "https://www.youtube.com/embed/" + this.dataset.id + "?autoplay=1");
+        iframe.setAttribute("frameborder", "0");
+        iframe.setAttribute("allowfullscreen", "1");
+        this.parentNode.replaceChild(iframe, this);
+    }
+
+</script>
+
+<script type="text/javascript">
+(function(document, history, location) {
+  var HISTORY_SUPPORT = !!(history && history.pushState);
+
+  var anchorScrolls = {
+    ANCHOR_REGEX: /^#[^ ]+$/,
+    OFFSET_HEIGHT_PX: 240,
+
+    /**
+     * Establish events, and fix initial scroll position if a hash is provided.
+     */
+    init: function() {
+      this.scrollToCurrent();
+      $(window).on('hashchange', $.proxy(this, 'scrollToCurrent'));
+      $('body').on('click', 'a', $.proxy(this, 'delegateAnchors'));
+    },
+
+    /**
+     * Return the offset amount to deduct from the normal scroll position.
+     * Modify as appropriate to allow for dynamic calculations
+     */
+    getFixedOffset: function() {
+      return this.OFFSET_HEIGHT_PX;
+    },
+
+    /**
+     * If the provided href is an anchor which resolves to an element on the
+     * page, scroll to it.
+     * @param  {String} href
+     * @return {Boolean} - Was the href an anchor.
+     */
+    scrollIfAnchor: function(href, pushToHistory) {
+      var match, anchorOffset;
+
+      if(!this.ANCHOR_REGEX.test(href)) {
+        return false;
+      }
+
+      match = document.getElementById(href.slice(1));
+
+      if(match) {
+        anchorOffset = $(match).offset().top - this.getFixedOffset();
+        $('html, body').animate({ scrollTop: anchorOffset});
+
+        // Add the state to history as-per normal anchor links
+        if(HISTORY_SUPPORT && pushToHistory) {
+          history.pushState({}, document.title, location.pathname + href);
+        }
+      }
+
+      return !!match;
+    },
+    
+    /**
+     * Attempt to scroll to the current location's hash.
+     */
+    scrollToCurrent: function(e) { 
+      if(this.scrollIfAnchor(window.location.hash) && e) {
+          e.preventDefault();
+      }
+    },
+
+    /**
+     * If the click event's target was an anchor, fix the scroll position.
+     */
+    delegateAnchors: function(e) {
+      var elem = e.target;
+
+      if(this.scrollIfAnchor(elem.getAttribute('href'), true)) {
+        e.preventDefault();
+      }
+    }
+  };
+
+    $(document).ready($.proxy(anchorScrolls, 'init'));
+})(window.document, window.history, window.location);
+</script>
+    
+
+
+         <script src="https://www.edwards.usask.ca/js/jquery.quicksearch.js" type="text/javascript" ></script>
+ 
+   
+         <script type="text/javascript">
+             $(document).ready(function () {
+                 $('#form1').find('.input').keypress(function (e) {
+                     if (e.which == 13) {
+                         $('#id_search').focus();  //Use whatever selector necessary to focus the 'next' input
+                     }
+                 });
+
+
+                 $('#id_search').quicksearch('table tbody tr');
+                 $('#id_search').focus();
+
+             });
+
+         </script>
+</body>
+</html>

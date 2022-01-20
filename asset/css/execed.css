@@ -1,0 +1,2887 @@
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.searchFilters  {
+    
+    padding-left:20px !important;
+}
+.middleColumn
+{border-right: 1px solid #ddd;border-left: 1px solid #ddd;padding-left: 32px; padding-right: 32px;
+}
+
+.titleSpacer{margin-top: 86px;margin-left: 270px;}
+.title1 { text-align: left !important;font-size:58px;color:#fff !important;font-weight:900 !important;}
+.title2 { text-align: left !important;color:#82C027 !important;font-size:40px !important;}
+.title3 { text-align: left !important;font-size:39px !important;color:#fff !important;}
+.mainBannerText:hover {padding-top:8px !important;}
+.mobileButton {
+    display: none !important;
+}
+.slick-slider {
+    background-color: none !important;
+}
+.imgDiv {
+    height: 70%;
+    background-position: center;
+    background-size: cover;
+}
+.wordsDiv {
+    padding-left: 21px;
+    float: left;
+}
+.wordsDiv h3 {
+    margin: 20px auto 4px !important;
+    font-size: 16px !important;
+}
+.wordsDiv p {
+    font-size: 12px !important;
+    text-align: center !important;
+}
+.slick-track {
+    height: 250px;
+}
+.slick-slide {
+    background-color: #fff !important;
+    margin-right: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4) !important;
+    border-radius: 7px 7px 7px 7px;
+    transition: 0.3s;
+    min-height: 310px !important;
+    height: auto;
+    width: 300px;
+}
+.slick-slide p {
+    text-align: left;
+    font-size: 13px;
+    color: #333;
+    line-height: 21px;
+}
+.slick-slide h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: left;
+    color: #333;
+    font-weight: 700;
+}
+.slick-slide img {
+    float: left;
+    height: 100%;
+    padding-right: 10px;
+    border-radius: 7px 7px 7px 7px;
+    margin: 0 !important;
+}
+.slick-list {
+    overflow: unset !important;
+}
+.slick-prev {
+    color: #fff;
+    font-size: 41px;
+    position: absolute;
+    left: 2%;
+    top: 42%;
+    z-index: 1000;
+}
+.slick-next {
+    color: #fff;
+    font-size: 41px;
+    position: absolute;
+    right: 2%;
+    top: 42%;
+    z-index: 1000;
+}
+.quotesBanner {
+    height: 400px;
+    padding: 0;
+}
+.quotesBanner .overlay {
+    width: 100%;
+    padding: 0;
+}
+.quotesBanner .quoteWords {
+    padding-top: 90px;
+    font-size: 27px;
+    text-align: center;
+    color: #fff;
+    padding-left: 115px;
+    padding-right: 115px;
+    padding-bottom: 30px;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.quotesBanner .quoteSayer {
+    color: #eee;
+    font-size: 17px;
+}
+.quotesBanner .slick-slide {
+    background-color: unset !important;
+    margin-right: 0 !important;
+    box-shadow: none !important;
+    transition: unset;
+    min-height: 0 !important;
+}
+address {
+    line-height: 1.6 !important;
+    color: #8a8a8a !important;
+    margin: 0 0 1rem !important;
+    padding: 0.5625rem 1.25rem 0 1.1875rem !important;
+    border-left: 1px solid #cacaca !important;
+    width: 30% !important;
+    float: right !important;
+    margin-left: 62px !important;
+}
+pre {
+    line-height: 1.6 !important;
+    color: #8a8a8a !important;
+    margin: 0 0 1rem !important;
+    padding: 0.5625rem 1.25rem 0 1.1875rem !important;
+    border-left: 1px solid #cacaca !important;
+    width: 30% !important;
+    float: right !important;
+    margin-left: 62px !important;
+    white-space: unset;
+    font-family: unset;
+    font-style: italic;
+}
+
+.EEBanner{
+    background-color: #000; margin-bottom: 30px; padding-top: 165px; text-align: right; padding-right: 122px; width: 100%; background-repeat: no-repeat; background-image: url('/programs/execed/programs/leadership/quizbanner2.jpg'); height: 250px;
+    background-position-y: center;
+    background-position-x: 72px;
+}
+
+.EELink {
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+    cursor: pointer;
+    -webkit-appearance: none;
+    transition: background-color 0.25s ease-out, color 0.25s ease-out;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 0.85em 1em;
+    margin: 0 0 1rem;
+    margin-right: 10px;
+    background-color: #096a47 !important;
+    border: 1px solid #096a47;
+    font-family: "Open Sans";
+    text-transform: none;
+    color: #fff !important;
+    font-weight: 700;
+    white-space: nowrap;
+}
+.xtitle-bar-right {
+    display: none !important;
+}
+.Standard h3 {
+    font-size: 26px ;
+    color: #222 !important;
+}
+.Standard table tbody {
+    border: none;
+}
+.tagline {
+    font-size: 33px !important;
+    font-weight: 900 !important;
+}
+.tagSocial {
+    padding-top: 2px;
+    position: relative;
+}
+.tagSocial a i {
+    font-size: 49px !important;
+    padding-right: 15px;
+}
+.tagSocial a i:hover {
+    color:#fff;
+}
+#mailbutton {
+    font-size: 49px !important;
+}
+.courseInfo {
+   
+    padding-left: 20px;
+    margin-top: 32px;
+}
+.courseInfo h1 {
+    color: #000;
+    font-size: 20px;
+}
+.suggestedCourse {
+    position: relative;
+}
+.carousel-no-style {
+    visibility: visible;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+    left: 0;
+    height: 250px;
+    width: 100%;
+}
+.carousel-no-style ul li {
+    font-size: inherit;
+    width: 450px !important;
+    position: relative;
+    height: 250px !important;
+    overflow: hidden;
+    float: left;
+}
+.carousel-no-style img {
+    width: 90%;
+}
+.row.find div i {
+    font-size: 60px !important;
+    xcolor: #096a47;
+    color: #096a47;
+}
+.row.find div p {
+    font-size: 30px;
+    padding-top: 21px;
+}
+.row.find div {
+    text-align: center;
+}
+.insert {
+    position: absolute;
+    bottom: 0;
+    background-color: #096a47;
+    width: 90%;
+    color: #fff;
+    padding-top: 5px;
+    opacity: 0.8;
+    height: 87px;
+    padding-left: 5px;
+    margin-left: 23px;
+    padding-right: 5px;
+}
+.insert:hover {
+    opacity: 0.95;
+}
+.insert h3 {
+    font-size: 16px;
+    font-weight: 600;
+}
+.insert p {
+    font-size: 14px;
+}
+s .larger {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.1;
+}
+.medium {
+    font-size: 20px;
+    line-height: 1.1;
+}
+.strong {
+    font-weight: 600;
+}
+.contactCard p {
+    line-height: 20px;
+}
+.contactCard {
+    clear: both;
+    width: 100%;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 20px 20px 26px 0;
+}
+.contactCard img {
+    width: 140px;
+    vertical-align: top;
+    float: left;
+    /*max-width: 140px;*/
+  
+    margin-left: 0;
+    border: 1px solid #ccc;
+}
+div.descriptionDiv1,div.descriptionDiv2,.pg1Body {
+    display:none;
+}
+.descriptionText
+{
+    font-weight:bold;
+}
+
+.courseSessions{
+    background-color: #f9f9f9;
+    border: 1px solid #aaa;
+    padding-left: 21px;
+  margin-bottom:20px;
+    padding-top: 21px;
+}
+.courseSessions h2
+{
+   
+    font-size:29px !important;
+    text-transform: uppercase;
+    font-weight:900 !important;
+    color:#333 !important;
+}
+.courseSessions p
+{
+    margin-bottom:7px;
+}
+.courseSessions a.text{
+    margin-top:10px;
+    width:95%;
+}
+.hides
+{
+    display:none;
+}
+
+.cardDetails {
+    float: left;
+    padding-left: 20px;
+}
+.connectStyle {
+    height: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.instructor {
+    padding-bottom: 30px;
+}
+.instructor img {
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+    width: 25%;
+    max-width: 189px;
+}
+.instructorDetails {
+    display: inline-block;
+    width: 74%;
+    padding-left: 25px;
+}
+.filters {
+    position: relative;
+}
+.filters .text {
+    margin-top: 27px;
+    background-color: #096a47 !important;
+    width: 100%;
+}
+label {
+    display: block;
+    margin: 0;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    line-height: 1.8;
+    text-align: center;
+    color: #333 !important;
+}
+select {
+    background-color: #fff !important;
+    border: 1px solid #ddd !important;
+    color: #333 !important;
+    font-size: 0.9em;
+    width: 100% !important;
+}
+.courseResult {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 30px;
+    position: relative;
+    min-height: 240px;
+}
+.courseResult h1 {
+    color: #096a47 !important;
+    font-size: 28px !important;
+    margin-bottom: 0 !important;
+}
+.courseResult h2 {
+    color: #666 !important;
+    font-size: 20px !important;
+}
+.courseResult p {
+    font-size: 14px !important;
+    padding-right: 200px;
+margin-left:270px;
+}
+.courseResult a.text {
+    display: block;
+    width: 125px;
+    position: absolute;
+    background-color: #fff !important;
+    border: none;
+    color: #096a47 !important;
+    font-weight: 300;
+    position: absolute;
+}
+.courseResult a.text:hover {
+    display: block;
+    width: 125px;
+    position: absolute;
+    border-left: 1px solid #096a47;
+    background-color: #fff !important;
+    color: #096a47 !important;
+    font-weight: 300;
+    position: absolute;
+}
+.coursePhoto
+{
+float: left;
+    margin-right: 20px;
+    height: 200px;
+    width: 250px;
+    background-size: cover;
+
+}
+.location {
+    color: #333 !important;
+    margin-top: 0px !important;
+    margin-bottom: 2px !important;
+
+}
+.categories {
+    color: #333 !important;
+    margin-bottom: 15px !important;
+line-height: 18px !important;
+}
+.fees{
+    color: #333 !important;
+    margin-bottom: 4px !important;
+}
+.columnsRow {
+    overflow: auto;
+    padding-bottom: 40px;
+}
+.frontSearch {
+    border-top: 1px solid #fefefe;
+    border-bottom: 1px solid #fefefe;
+    xbackground-color: #fefefe;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.frontSearch input,
+.frontSearch select {
+    margin-top: 10px;
+}
+.frontSearch input::-moz-placeholder {
+    color: #333;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.frontSearch input::-webkit-input-placeholder {
+    color: #333;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.frontSearch input::-ms-input-placeholder {
+    color: #333;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.frontSearch input:-moz-placeholder {
+    color: #333;
+    font-weight: 600;
+    font-size: 1rem;
+}
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+input:focus:-moz-placeholder {
+    color: transparent;
+}
+input:focus::-moz-placeholder {
+    color: transparent;
+}
+input:focus:-ms-input-placeholder {
+    color: transparent;
+}
+.frontSearch label {
+    top: 16px !important;
+    position: absolute;
+    left: 33px;
+}
+.frontSearch a {
+    display: inline;
+    position: absolute;
+    top: 17px;
+    right: -40px;
+    color: #096a47 !important;
+}
+.button1 {
+    top: 99px;
+    right: 10px;
+    font-weight: 600;
+}
+.button2 {
+    top: 147px;
+    right: 12px;
+    font-weight: 600;
+}
+.button3 {
+    top: 195px;
+    right: 13px;
+    font-weight: 600;
+}
+i.fa.fa-chevron-circle-right {
+    font-size: 16px !important;
+}
+.ad {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.custom {
+    border: 1px solid #ccc;
+    background-color: #096a47;
+    padding: 10px;
+}
+.custom h1 {
+    font-size: 19px !important;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.custom p {
+    color: #ddd !important;
+}
+.leadership {
+    border: 1px solid #ff0;
+    background-color: #2199e8;
+    text-align: center;
+}
+.leadership h1 {
+    font-size: 25px !important;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+}
+.leadership p {
+    color: #fff;
+    font-size: 17px;
+}
+.leadership p {
+    color: #fff;
+    font-size: 17px;
+}
+.showing {
+    float: left;
+    font-weight: 600;
+    font-size: 16px !important;
+    padding-right: 24px;
+    padding-left: 10px;
+    padding-top: 8px;
+}
+.top {
+    float: right;
+}
+.top i.fa {
+    font-size: 18px !important;
+    padding-right: 4px;
+}
+.sortby {
+    margin-left: 9px !important;
+    width: 68% !important;
+}
+.newsFilters li {
+    display: inline;
+}
+.newsFilters .newsOn:before {
+    content: "\f00c";
+    font-family: fontawesome;
+}
+.newsFilters .newsOff:before {
+    content: "\f00d";
+    font-family: fontawesome;
+}
+.newsFilters .newsOff {
+    background-color: #ccc !important;
+    border: 1px solid #aaa;
+    color: #999 !important;
+}
+.newsFilters .newsOff:hover {
+    background-color: #ccc !important;
+    border: 1px solid #333;
+    color: #333 !important;
+}
+.newsItem img {
+    width: 150px;
+    display: table-cell;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin: 14px 14px 14px 0;
+}
+.newsItem {
+    display: table;
+    border-bottom: 1px solid #ddd;
+    clear: both;
+}
+.newsText {
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-top: 5px;
+    width: 85%;
+}
+.keywords {
+    color: #666;
+    font-style: italic;
+    font-size: 13px;
+}
+.content h1 {
+    color: #000;
+}
+.Gray img {padding-right:20px;}
+.Green h1,
+.Green h2 {
+    color: #fff !important;
+}
+.Gray h1,
+.Green h1 {
+    font-weight: 600 !important;
+}
+.Green a {
+    font-weight: 900;
+    color: #fff;
+}
+.Green a:hover {
+    font-weight: 900;
+    color:  #096a47 ;
+}
+.Gray h1,
+.content h1 {
+    font-size: 36px ;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+.Gray h2,
+.Green h2,
+.content h2 {
+    font-weight: 400;
+    font-size: 24px !important;
+}
+.eventDate{ width:35%;float:left;text-align: left !important;}
+.eventText{width:65%;float:left;text-align: left !important;}
+.execEdNewFront {
+    padding-bottom: 15px;
+    width: 86%;
+    margin: auto;
+}
+.frontNews {font-weight:700 !important;font-size:30px !important;}
+.content h3 {
+    font-size: 18px;
+}
+.content h4 {
+    font-size: 18px;
+    font-weight: 800;
+}
+.content h6 {
+    font-style: italic;
+    font-size: 12px;
+    color: #999;
+}
+.content img {
+    margin: 0 15px 15px 15px;
+}
+.content ol,
+.content ul {
+    line-height: 29px;
+    margin-bottom: 1em;
+}
+.facultymember {
+    height: 210px;
+    width: 175px;
+    position: relative;
+    overflow: hidden;
+    float: left;
+}
+.facultymember img {
+    width: 190px;
+    margin: 15px;
+    border: 1px solid #ddd;
+}
+.facultymember span {
+    background: #111;
+    top: 185px;
+    left: 17px;
+    opacity: 0.9;
+    color: #fff;
+    width: 158px;
+    position: absolute;
+}
+.marquee h1 {
+    font-size: 45px !important;
+}
+.front {
+    font-size: 51px !important;
+}
+.Standard {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff;
+}
+.Green {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #096a47;
+    color: #fff !important;
+}
+.Gray {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #f1f3f1;
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+    color: #111;
+    background-image: url(/images/backgrounds/squares-grey.png);
+    background-size: cover;
+    margin-bottom: 0;
+}
+.Gray table {
+    border: 1px solid #ccc;
+}
+.featureBox {
+    padding-bottom: 10px;
+    border: 1px solid #ccc;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+.featureBox:hover {
+    border: 1px solid #999;
+}
+.featureBox a {
+    display: block;
+}
+.featureBox h4 {
+    padding-top: 4px;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 600;
+    color: #333;
+    font-size: 15px;
+    white-space: nowrap;
+}
+.featureBox:hover {
+    border: 1px solid #999;
+    color: #999;
+}
+.featureBox a img {
+    border: 0;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.horizontalLinks {
+    font-size: 1.3em;
+}
+.horizontalLinks i {
+    vertical-align: middle;
+    font-size: 0.4em !important;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.sticky {
+    z-index: 1;
+}
+a {
+    color: #096a47;
+}
+a:hover {
+    color: #096a47;
+}
+.button {
+    border-radius: 3px;
+}
+.button.bold {
+    font-weight: 700;
+}
+.button.success {
+    background-color: transparent;
+    border-radius: 3px;
+    border: 1px solid #fff;
+}
+.button.success.search {
+    height: 30px;
+    border-radius: 0;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding-top: 8px;
+    margin: 0;
+    margin-top: -13px;
+    border-left: none;
+}
+.marquee {
+    background-size: contain;
+}
+.marquee-small {
+    font-size: 0.8rem;
+    padding-top: 0;
+    padding-bottom: 40px;
+    color: #fff;
+    text-align: center;
+}
+.button.dark {
+    background-color: #333;
+    font-weight: 700;
+}
+.frontContent {
+    padding-top: 45px;
+}
+.content {
+    xpadding-top: 45px;
+    padding-bottom: 25px;
+}
+.row {
+    width: 100%;
+    max-width: 4000px;
+}
+.maps {
+    width: 100%;
+    height: 500px;
+}
+.gm-style .default-card,
+.gm-style .directions-card,
+.gm-style .place-card {
+    display: none !important;
+}
+.gm-style .place-card-large {
+    display: none !important;
+}
+.profile-photo {
+    display: none !important;
+}
+.backgroundImage {
+    background-image: url(http://www.edwards.usask.ca/img/banner/edwards_building.jpg);
+}
+.backgroundImageAboutUS {
+    background-image: url(http://www.edwards.usask.ca/img/aboutus/banner.jpg);
+}
+.backgroundImageCentres {
+    background-image: url(http://www.edwards.usask.ca/img/aboutus/centres.jpg);
+}
+.backgroundImage2 {
+    background-image: url(http://www.edwards.usask.ca/img/banner/careers.jpg);
+}
+.backgroundImage3 {
+    background-image: url(http://www.edwards.usask.ca/img/banner/chalkboard.jpg);
+}
+#facultyTables {
+    margin-top: 50px;
+}
+.noborder thead {
+    background: #fff;
+    color: #333;
+    border: none;
+}
+.marquee {
+    display: inline-block;
+    xheight: 100% !important;
+    background-position: 50% 23%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: unset;
+    xline-height: 900px;
+    xpadding-top: 300px;
+    position: relative;
+    xmargin-bottom: 35px;
+}
+.main {
+    min-height: 900px;
+}
+.overlay {
+    xposition: absolute;
+    xtop: 0;
+    xleft: 0;
+    xright: 0;
+    xbottom: 0;
+    background-color: rgba(0, 0, 0, 0.45);
+    overflow: hidden;
+    height: 100%;
+    z-index: 0;
+    color: #fff;
+}
+.marquee-small {
+    display: inline-block;
+    min-height: 300px;
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+.arrow {
+    position: absolute;
+    bottom: 0;
+    color: #eee;
+    font-size: 3em;
+    left: 50%;
+    line-height: 10px;
+    vertical-align: top;
+}
+.socialIcons {
+    text-align: right;
+}
+.socialIcons a {
+    color: #333;
+}
+footer ul li a span i {
+    color: #333;
+}
+.fa-stack:hover {
+    color: #22bb5b;
+    transition: 1.8s;
+    transform: rotateY(360deg);
+}
+.fullScreen {
+    width: 100%;
+}
+.fullBanner {
+    width: 100%;
+    padding: 0;
+}
+.fullBanner img {
+    margin: 0 !important;
+}
+.title-bar.smaller {
+    height: 55px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.title-bar {
+    background-color: #fff;
+    padding: 0;
+    color: #fff;
+    height: 55px;
+    border-bottom: 1px solid #ccc;
+}
+.title-bar a {
+    color: #fff;
+}
+.title-bar-left {
+    xpadding-left: 43px;
+    height: inherit;
+}
+.title-bar .separator {
+    border-left: 1px solid #ccc;
+    float: left;
+    height: 55px;
+}
+.separator h1 {
+    color: #333;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-left: 13px;
+}
+.shieldLogo img {
+    height: 60px;
+    float: left;
+    margin: 5px 10px 0 10px;
+}
+.title-bar-right {
+    padding-top: 15px;
+    padding-right: 20px;
+    height: 39px;
+}
+.title-bar-right ul {
+    list-style-type: none;
+}
+.title-bar-right a {
+    font-weight: 600;
+    color: #333;
+    font-size: 14px;
+}
+.title-bar-right a:hover {
+    color: #096a47;
+}
+.title-bar-right a i {
+    color: #096a47;
+}
+.headerLogo {
+    xwidth: 220px !important;
+    padding-bottom: 15px;
+    padding-top: 3px;
+    x-webkit-transition: all 0.3s;
+    x-moz-transition: all 0.3s;
+    xtransition: all 0.3s;
+}
+.headerLogo.smaller {
+    width: 120px !important;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+td a img {
+    margin: 0 !important;
+    max-width: none;
+}
+td img {
+    margin: 0 !important;
+    max-width: none;
+}
+.table {
+    display: table;
+}
+.table li {
+    display: table-cell;
+    padding-left: 10px;
+    font-family: "Open Sans";
+}
+table tbody tr:nth-child(even) {
+    background-color: #f6f6f6;
+}
+.border {
+    border-left: 1px solid #ddd;
+}
+.front-page a img {
+    margin: 0 auto;
+    text-align: center;
+    margin: 0 auto !important;
+    width: 90%;
+}
+.front-page {
+    margin: 0;
+    padding-bottom: 10px;
+}
+.mbsm-fp {
+    font-weight: 700;
+}
+.removeMargins div {
+    text-align: center;
+}
+.frontNewMentions {
+    list-style-type: none;
+    text-align: left;
+}
+.marquee h1 {
+    color: #fff;
+    font-weight: 900;
+    font-family: "Open Sans", sans-serif;
+    font-size: 3.5em;
+    text-align: left;
+    xpadding-bottom: 16px;
+    text-align: center;
+    z-index: 10;
+}
+.front {
+    font-size: 51px !important;
+}
+.marquee h2 {
+    color: #fff;
+    font-size: 2.2em;
+    font-weight: 600;
+    text-align: center;
+}
+.text,
+.text a,
+a span.text .filters.text,
+a.text {
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+    cursor: pointer;
+    -webkit-appearance: none;
+    transition: background-color 0.25s ease-out, color 0.25s ease-out;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 0.85em 1em;
+    margin: 0 0 1rem;
+    margin-right: 10px;
+    background-color: #096a47 !important;
+    border: 1px solid #096a47;
+    font-family: "Open Sans";
+    text-transform: none;
+    color: #fff !important;
+    font-weight: 700;
+    white-space: nowrap;
+}
+.menu a {
+    font-weight: 600;
+}
+.menuitem a i,
+.text a i,
+a.menuitem i,
+a.text i {
+    padding-right: 4px;
+}
+.text:hover a,
+a span.text:hover,
+a.text:hover {
+    color: #fff;
+    background-color: #085c3e !important;
+}
+.menuitem a,
+a span.menuitem,
+a.menuitem {
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+    cursor: pointer;
+    -webkit-appearance: none;
+    transition: background-color 0.25s ease-out, color 0.25s ease-out;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 0.85em 1em;
+    margin: 0 0 1rem;
+    margin-right: 10px;
+    color: #666 !important;
+    background-color: #f9f9f9 !important;
+    border-color: #ccc !important;
+    border-bottom: 1px solid #ccc !important;
+    font-family: "Open Sans";
+    text-transform: none;
+    font-weight: 700;
+    white-space: nowrap;
+}
+.menuitem:hover a,
+a span.menuitem:hover,
+a.menuitem:hover {
+    color: #666;
+    background-color: #e5e5e5;
+    border-color: #adadad;
+}
+.button.large {
+    font-size: 1em;
+}
+.button.small {
+    font-size: 0.85rem;
+}
+.button45 {
+    width: 45%;
+}
+.button33 {
+    width: 30%;
+}
+#transCardWrapper {
+    xline-height: 83px !important;
+    padding-top: 100px;
+}
+.transCard {
+    background-image: url(/img/webgraphics/transBK40.png);
+    height: 325px;
+    vertical-align: middle;
+    display: inline-block;
+    border: 0 solid #ccc;
+    padding-top: 10px;
+    line-height: 10px;
+    width: 100%;
+}
+.bigNumbers h1 {
+    font-size: 4.5em;
+}
+.bigNumbers h4 {
+    font-weight: 400;
+}
+.posterStyle {
+    padding-bottom: 0;
+}
+.posterBanner {
+    padding-top: 71px;
+    padding-bottom: 55px;
+}
+#posterWrapper {
+    xline-height: 83px !important;
+    xpadding-top: 205px;
+}
+.posterStyleMain {
+    font-size: 51px;
+    text-align: left;
+    xline-height: 3em !important;
+}
+.posterStyle h1 {
+    font-family: "Open Sans" !important;
+}
+.centered {
+    text-align: center;
+}
+.transAreas {
+    margin-top: 65px;
+}
+.ghostButtonList {
+    list-style-type: none;
+    line-height: 2em;
+    padding-top: 10px;
+}
+.ghostButtonListBanner {
+    list-style-type: none;
+    line-height: 2em;
+    margin: 0 !important;
+    text-align: center;
+    padding-top: 44px;
+}
+.ghostButtonListBanner .ghostButton {
+    font-size: inherit;
+    min-width: 200px;
+}
+.ghostButtonMenu {
+    text-align: center;
+    padding-top: 40px;
+}
+.ghostButton {
+    color: #fff !important;
+    display: inline-block;
+    font-size: 28px;
+    font-weight: 600 !important;
+    border: 2px solid #fff;
+    text-align: center;
+    padding: 15px 13px 16px 13px;
+}
+.content .ghostButton {
+    font-size: 14px;
+    padding: 11px 13px 12px 13px;
+    border-radius: 4px;
+}
+.content .ghostButton:hover {
+    font-size: 14px;
+    padding: 11px 13px 12px 13px;
+    border-radius: 4px;
+}
+.ghostButton a {
+    color: #fff;
+    font-weight: 900;
+}
+.ghostButton:hover {
+    background-image: url(http://www.edwards.usask.ca/img/webgraphics/transBK40.png);
+    font-weight: 600 !important;
+    padding: 15px 13px 16px 13px;
+}
+.ghostButton.active {
+    background-image: url(http://www.edwards.usask.ca/img/webgraphics/transBK40.png);
+    font-weight: 600 !important;
+    padding: 15px 13px 16px 13px;
+}
+.ghostButtonList li {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    min-width: 15%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mainBannerText {
+    color: #fff !important;
+    font-size: 34px;
+    font-weight: 900 !important;
+    border: 4px solid #fff;
+    text-align: center;
+    padding: 7px;
+    padding-top: 34px;
+    vertical-align: middle;
+}
+.mainBannerText:hover {
+    background-image: url(http://www.edwards.usask.ca/img/webgraphics/transBK40.png);
+    font-weight: 900 !important;
+    border: 4px solid #fff;
+    padding: 7px;
+    text-align: center;
+    padding-top: 34px !important;
+}
+.mainBannerList {
+    list-style-type: none;
+    line-height: 2em;
+    margin-left: 0;
+}
+.mainBannerList li {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 22%;
+    height: 142px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.small {
+    color: #ddd;
+    font-size: 20px !important;
+    font-weight: 600;
+    line-height: 13px;
+}
+.double {
+    width: 44% !important;
+}
+.transCardGray {
+    xbackground-image: url(/img/webgraphics/transBL80White.png);
+    height: 240px;
+    vertical-align: middle;
+    display: inline-block;
+    border: 0 solid #ccc;
+    padding-top: 30px;
+    line-height: 10px;
+    width: 100%;
+    color: #000;
+}
+.transCardTitleGray {
+    background-image: url(/img/webgraphics/transBK40.png);
+    height: 72px;
+    vertical-align: middle;
+    display: inline-block;
+    border: 0 solid #ccc;
+    padding-top: 5px;
+    line-height: 10px;
+    width: 100%;
+}
+.transCardTitle {
+    xbackground-image: url(/img/webgraphics/transBL80White.png);
+    xheight: 72px;
+    vertical-align: middle;
+    display: inline-block;
+    xborder: 0 solid #ccc;
+    padding-top: 5px;
+    line-height: 10px;
+    margin: 0 auto;
+    width: 100%;
+}
+.transcardLeftGray {
+    margin-bottom: 10px;
+    border-right: 1px solid #777;
+}
+.marquee p {
+    color: #111;
+    text-align: left;
+    padding-right: 20px;
+    font-weight: 400;
+}
+.marquee a {
+    font-weight: 900;
+    font-family: "Open Sans";
+    color: #fff !important;
+}
+.marqueeSearchBox {
+    padding-top: 11px;
+}
+select {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    width: 50%;
+}
+.mobileDropDown {
+    position: absolute;
+    top: -5px;
+    left: 27px;
+}
+.search tbody {
+    border: none;
+    background: 0 0;
+}
+.gsc-search-button input {
+    display: inline-block !important;
+    text-align: center !important;
+    line-height: 1 !important;
+    cursor: pointer !important;
+    -webkit-appearance: none !important;
+    transition: background-color 0.25s ease-out, color 0.25s ease-out !important;
+    vertical-align: middle !important;
+    border: 1px solid transparent !important;
+    border-radius: 3px !important;
+    padding: 0.85em 1em !important;
+    margin: 0 0 1rem !important;
+    margin-right: 10px !important;
+    background-color: #096a47 !important;
+    border: 1px solid #096a47 !important;
+    font-family: "Open Sans" !important;
+    text-transform: capitalize !important;
+    color: #fff !important;
+    font-weight: 700;
+    white-space: nowrap;
+    width: 150px;
+}
+.gsc-input {
+    width: 100%;
+    background: url("") !important;
+}
+.gsc-input input {
+    background-color: #fff !important;
+}
+.gsc-branding {
+    display: none;
+}
+.gsc-clear-button {
+    display: none;
+}
+.bigSearch {
+    background-color: transparent;
+    width: 75%;
+    height: 30px;
+    display: inline;
+    vertical-align: top;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 0 !important;
+    border: 2px solid #fff;
+}
+.top-bar-small {
+    display: none;
+}
+.topMenu {
+    background-color: #096a47;
+    width: 100%;
+    color: #fff;
+    height: 50px !important;
+    position: relative;
+}
+.topMenuWords.smaller {
+    margin-top: -44px;
+}
+.topMenu ul {
+    list-style-type: none;
+}
+.topMenu ul li {
+    display: inline-block;
+    padding-top: 3px;
+}
+.topMenu ul li a {
+    color: #fff;
+    font-size: 1em;
+    padding: 12px;
+    font-size: 14px !important;
+    xtext-transform: uppercase;
+    font-family: "Open Sans";
+}
+.dropdownMenu {
+    background-image: url(/img/webgraphics/transBK40white.png);
+    min-height: 200px;
+    border-bottom: 1px solid #ccc;
+}
+.dropdownMenu ul {
+    list-style-type: none;
+    list-style-position: inside;
+}
+#mainMenu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 50px;
+    background-color: #8bc640;
+}
+#mainMenu i {
+    font-size: 1.4em;
+    padding-top: 10px;
+}
+.actionBanner {
+    background-color: #eee;
+    height: 60px;
+    color: #333;
+    border-top: 1px solid #eee;
+    xpadding-top: 15px;
+}
+.actionBanner .fa-stack {
+    padding-top: 5px;
+}
+.actionBanner h5 {
+    padding-top: 15px;
+    font-weight: 400;
+}
+.mentions {
+    sborder: 1px solid #eee;
+    padding-bottom: 30px;
+}
+.mentions img {
+    float: left;
+    width: 190px;
+}
+.mentionPic img {
+    border-radius: 5px;
+}
+.mentions p {
+    font-size: 0.85em;
+}
+.mentions h5 {
+    padding-top: 10px;
+    font-weight: 400;
+}
+.factRow {
+    width: 100%;
+    padding-top: 50px;
+    text-align: center;
+    color: #fff;
+}
+.factRow h4 {
+    font-weight: 700;
+    color: #fff;
+}
+.factRow h4 b {
+    font-size: 2em;
+    color: #096a47;
+}
+footer {
+    padding-top: 40px;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    font-size: 0.8em;
+}
+footer ul {
+    list-style-type: none;
+}
+footer ul li {
+    position: relative;
+}
+footer a {
+    font-weight: 400;
+}
+footer ul li {
+    display: inline;
+}
+.footer-links a {
+    font-weight: 600;
+    font-family: "Open Sans";
+}
+.uofs-footer-logo {
+    display: inline-block;
+    width: 130px;
+    height: 39px;
+    overflow: hidden;
+    margin-right: 17px;
+    margin-left: 10px;
+}
+.edwards-footer-logo {
+    display: inline-block;
+    width: 130px;
+    height: 39px;
+    overflow: hidden;
+    margin-right: 17px;
+    margin-left: 10px;
+}
+.contactMap {
+    margin-top: 63px;
+    border: none;
+}
+.tabs {
+    border: none;
+    border-bottom: 1px solid #e6e6e6;
+}
+.tabs-title {
+    margin-bottom: -1px;
+}
+.tabs-title > a {
+    font-weight: 600;
+    font-size: 14px;
+}
+.tabs-title > a:focus,
+.tabs-title > a[aria-selected="true"] {
+    background: #fff;
+    border-top: 1px solid #e6e6e6;
+    border-left: 1px solid #e6e6e6;
+    border-right: 1px solid #e6e6e6;
+    border-bottom: 0 solid #e6e6e6;
+}
+.accordion {
+    border: none;
+    clear: both;
+}
+.accordion-title {
+    border: none;
+    font-size: 19px;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+    color: #096a47;
+    padding: 1.25rem 1rem 1rem 2rem;
+}
+.accordion-title:before {
+    top: 55%;
+    left: 10px;
+    content: "\f054";
+    font-family: FontAwesome;
+    font-size: 14px;
+}
+.is-active > .accordion-title:before {
+    left: 10px;
+    content: "\f078";
+    font-size: 14px;
+}
+.accordion-title:focus {
+    background-color: #fff;
+    color: #096a47;
+}
+.is-active,
+.is-active:hover {
+    border: none !important;
+    border-bottom: 1px solid #bbb;
+}
+.accordion-title:hover {
+    border: none;
+    font-size: 19px;
+    border-bottom: 1px solid #ddd;
+    color: #096a47;
+    background-color: #fff;
+}
+.is-active a {
+    border-bottom: none;
+    color: #096a47;
+}
+.accordion-content table {
+    float: none;
+    width: 100% !important;
+}
+.accordion ul li ul {
+    list-style-type: square;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 13px !important;
+}
+.columnsDiv33 {
+    width: 28%;
+    margin-right: 37px;
+    
+    float: left;
+}
+.columnsDiv50 {
+    width: 44%;
+    margin-right: 37px;
+    float: left;
+}
+.columnsDiv25 {
+    width: 20%;
+    margin-right: 37px;
+    float: left;
+}
+.clear {
+    float: left;
+    width: 100%;
+}
+.circle {
+    -webkit-clip-path: circle(23% at 37% 21%);
+    clip-path: circle(23% at 37% 21%);
+}
+div.panel.callout {
+    background: #fff;
+    border-color: #52add1;
+    xtext-align: left !important;
+    color: #52add1;
+}
+.newsanchor {
+    padding-top: 220px;
+    margin-top: -220px;
+}
+.anchorMenuSmall {
+    display: none;
+}
+.anchorMenuSmall select {
+    background-color: transparent;
+    border: none;
+    color: #111;
+    width: 100%;
+    text-align: center;
+    background-image: none;
+    text-align-last: center !important;
+}
+.anchorMenu {
+    background-color: #fafafa;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    text-align: center;
+    z-index: 1000;
+}
+.anchorMenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 55px;
+}
+.anchorMenu li {
+    display: inline-block;
+    padding-top: 6px;
+}
+.anchorMenu li:last-child {
+    border-right: none;
+}
+.anchorMenu a {
+    padding: 11px;
+    display: block;
+    color: #666;
+}
+.anchorMenu .selected {
+    background-color: #f5f5f5;
+}
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 15px !important;
+    line-height: 1.5 !important;
+    color: #4d4d4d !important;
+}
+.faculty {
+    padding-top: 100px;
+}
+.faculty h1,
+.faculty h2 {
+    text-align: left !important;
+}
+.faculty p {
+    color: #fff;
+    text-align: left;
+}
+.downtown {
+    display: none;
+}
+.classUpdates {
+    -moz-column-count: 2;
+    column-count: 2;
+}
+.classUpdates p {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    display: inline-block;
+    font-size: 14px;
+}
+.classUpdates img {
+    width: 20%;
+    min-width: 100px;
+    float: left;
+}
+figure {
+    margin: 0;
+    margin-bottom: 20px;
+    max-height: 200px;
+    overflow: hidden;
+}
+.uofs-figure {
+    max-height: none;
+    text-align: center;
+}
+.uofs-figure img {
+    margin: 0 !important;
+    max-width: 100%;
+}
+.mbsm {
+    margin-bottom: 12px;
+    font-weight: 600 !important;
+    font-size: 23px !important;
+    letter-spacing: -0.5px !important;
+    line-height: 1.3 !important;
+}
+.mblg img {
+    margin: 0 !important;
+}
+.edwards-padding {
+    padding-top: 50px;
+}
+.uofs-media-row h6 {
+    color: #999;
+    letter-spacing: 1px;
+    display: none;
+}
+.uofs-media-row .large-4 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.uofs-page-title {
+    font-size: 45px !important;
+    line-height: 1.1;
+    letter-spacing: -2px;
+    font-weight: 700 !important;
+    text-align: center;
+}
+.pblg-lg {
+    padding-bottom: 60px;
+}
+.uofs-figure > figcaption {
+    font-size: 12px;
+    color: #a6a6a6;
+    line-height: 18px;
+    margin-top: 6px;
+    text-align: center;
+}
+.edwards-author {
+    text-transform: uppercase;
+    color: #666 !important;
+    font-weight: 900;
+}
+.uofs-article-section-head {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 60px;
+}
+.figcaption {
+    display: block;
+}
+.uofs-article-date {
+    text-align: center;
+    font-size: 18px;
+    color: #a6a6a6;
+    margin-bottom: 50px;
+}
+.lead {
+    text-align: center;
+    font-size: 20px;
+    color: #888;
+}
+.old-news {
+    margin-top: 80px;
+}
+.newsList li a {
+    font-weight: 900;
+    letter-spacing: 0.2px;
+}
+.newsSmallText {
+    font-size: 90%;
+}
+.newsList {
+    list-style-type: none;
+}
+.edArticle a img {
+    margin: 0 !important;
+    width: 100%;
+}
+.faculty {
+    padding-top: 100px;
+}
+.faculty h1,
+.faculty h2 {
+    text-align: left !important;
+}
+.faculty h1 {
+    font-size: 2.2em !important;
+}
+.faculty h2 {
+    font-size: 1.4em !important;
+}
+.faculty p {
+    color: #fff;
+    text-align: left;
+}
+@media only screen and (max-width: 3350px) {
+    .marquee {
+        background-size: cover !important;
+    }
+}
+@media only screen and (max-width: 2150px) {
+    .marquee {
+        xbackground-size: inherit !important;
+    }
+}
+@media only screen and (max-width: 1550px) {
+    .mentions h5 {
+        clear: both;
+    }
+    .marquee h1 {
+        font-size: 41px !important;
+    }
+    .small {
+        font-size: 15px !important;
+    }
+    .faculty h1 {
+        font-size: 2.2em !important;
+    }
+    .faculty h2 {
+        font-size: 1.4em !important;
+    }
+    .faculty {
+        width: 45%;
+    }
+    .titleSpacer
+    {
+        margin-left:200px !important;
+        
+    }
+    .EEBanner{
+        padding-top:50px;
+
+    }
+    .title2 
+    {font-size:40px !important;}
+    address{width:100% !important;}
+.courseResult h2 {font-size:20px !important;}
+}
+@media only screen and (max-width: 1280px) {
+    body {
+        font-size: 1em;
+    }
+    .EEBanner{
+        padding-right:20px;
+
+    }
+   
+ .courseResult a.text {
+        position: unset !important;
+        width: 41% !important;
+        text-align: left;
+        margin: 0 !important;
+        display: inline-block;
+        border: 1px solid #096a47;
+        text-align: center;
+        margin: 9px !important;
+    }
+    .featureBox {
+        width: initial;
+    }
+    .posterStyle h1 {
+        font-size: 45px !important;
+    }
+    .posterStyle h2 {
+        font-size: 24px !important;
+    }
+    .bkgroundTest {
+        background-size: 1280px;
+    }
+    .mainBannerText {
+        font-size: 33px !important;
+    }
+    .topMenu ul li {
+        padding-top: 2px;
+    }
+    .topMenu ul li a {
+        font-size: 0.7em;
+    }
+    .top-bar-left ul {
+        padding-left: 0;
+    }
+    .xsticky-wrapper {
+        height: 48px !important;
+    }
+    .transAreas {
+        margin-top: 10px;
+    }
+    .mainBannerList li {
+        width: 28%;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .socialIcons {
+        padding: 10px;
+    }
+    .xmarquee {
+        min-height: 650px;
+    }
+    .actionBanner h5 {
+        font-size: 16pxem;
+        padding-top: 11px;
+    }
+    .actionBanner a {
+        font-size: 19px;
+    }
+    .xactionBanner {
+        height: 39%;
+    }
+    #mainMenu {
+        width: 37px;
+    }
+    #mainMenu i {
+        font-size: 1em;
+        padding-top: 7px;
+    }
+    .topMenu {
+        height: 30px;
+    }
+    .fa-lg {
+        font-size: 0.9em !important;
+    }
+    .content h1 {
+        font-size: 2rem;
+    }
+    .content p {
+        xfont-size: 0.7rem;
+    }
+    .content h5 {
+        font-size: 1em;
+    }
+    .mentions h5 {
+        clear: both;
+    }
+    .xmentions img {
+        width: 80px;
+    }
+    .marquee-small h4 {
+        font-size: 1rem;
+    }
+    .marquee-small h5 {
+        font-size: 0.8rem;
+    }
+    .marquee-small {
+        min-height: 150px;
+    }
+    .featureBox h4 {
+        font-size: 13px;
+    }
+    .faculty h1 {
+        font-size: 2.2em !important;
+    }
+    .faculty h2 {
+        font-size: 1.4em !important;
+    }
+    .faculty {
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 1130px) {
+    .anchorMenu .medium-12 {
+        width: 100% !important;
+    }
+    .menu .button {
+        display: none;
+    }
+    .actionBanner h5 {
+        font-size: 16px;
+    }
+    .mainBannerText {
+        font-size: 24px !important;
+    }
+    .title2 {
+        font-size:52px !important;
+    }
+    .title1 {font-size:48px;}
+    .title2 {font-size:38px !important;}
+    .titleSpacer {
+        margin-left:169px !important;
+    }
+}
+@media only screen and (width: 1024px) {
+    .searchFilters .large-3 {
+        width: 50%;
+        padding-left:20px;
+    }
+    .posterBanner {
+        width: 100%;
+        margin-left: 0;
+    }
+   
+}
+@media only screen and (max-width: 1025px) {
+    .backgroundImage {
+        min-height: 600px !important;
+    }
+    .EEBanner{
+        padding-top:165px;
+    }
+    .xmarquee {
+        height: 473px;
+    }
+    .posterStyle h1 {
+        font-size: 44px !important;
+    }
+    .posterStyle h2 {
+        font-size: 24px !important;
+    }
+    #posterWrapper {
+        xpadding-top: 95px;
+    }
+    .xbigNumbers {
+        width: 25%;
+    }
+    .slick-dots {
+        display: none !important;
+    }
+    .colShuffle {
+        width: 50%;
+    }
+    .allmentions {
+        text-align: center !important;
+        width: 100% !important;
+    }
+    .faculty h1 {
+        font-size: 2.2em !important;
+    }
+    .faculty h2 {
+        font-size: 1.4em !important;
+    }
+    .courseResult a.text {
+        position: unset !important;
+        width: 41% !important;
+        text-align: left;
+        margin: 0 !important;
+        display: inline-block;
+        border: 1px solid #096a47;
+        text-align: center;
+        margin: 9px !important;
+    }
+    .courseResult p {
+        padding-right: 0;
+    }
+    .posterBanner {
+        padding-top: 50px;
+        text-align: center;
+        padding-bottom: 0;
+    }
+    .frontSearch {
+        border: none;
+        margin-top: 0;
+    }
+    .searchFilters {
+        width: 100%;
+        padding-left: 20px;
+    }
+    .mobileButton {
+        margin: 0 auto;
+        display: initial !important;
+        width: 100% !important;
+        position: unset !important;
+        top: unset !important;
+        right: unset !important;
+        margin: 0 auto;
+    }
+    .notMobileButton {
+        display: none !important;
+    }
+}
+@media only screen and (max-width: 875px) {
+    .googleMap {
+        height: 300px;
+    }
+    .xmarquee h1 {
+        font-size: 30px !important;
+    }
+    .topMenu {
+        padding-top: 5px;
+    }
+    .topMenu button {
+        background: 0 0;
+        margin: 0;
+    }
+    .topMenu button:hover {
+        background: 0 0;
+    }
+    .topMenu button:focus {
+        background: 0 0;
+    }
+    .dropdown.menu > li.is-dropdown-submenu-parent > a {
+        padding-right: 1rem;
+        font-size: 13px !important;
+    }
+    .dropdown.menu > li.is-dropdown-submenu-parent > a:after {
+        display: none !important;
+    }
+    .small {
+        font-size: 15px !important;
+    }
+    .mainBannerText {
+        font-size: 24px !important;
+    }
+    table {
+        width: 100% !important;
+    }
+    tr td:first-child {
+        display: none;
+    }
+    .titleSpacer {margin-left:100px !important;}
+}
+@media only screen and (max-width: 775px) {
+    .title1 {text-align:center !important;}
+    .title2 {text-align:center !important;}
+    .titleSpacer {margin-left:0px !important;}
+    
+    .featureBox h4 {
+        font-size: 15px;
+        width: 100%;
+        white-space: normal;
+        top: 90px;
+        left: 0;
+        text-align: center;
+    }
+    .allmentions {
+        width: 90%;
+        text-align: center !important;
+    }
+    .border {
+        border: none;
+    }
+    .slide-bar {
+        background-color: #fff !important;
+        border-right: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+    }
+    .slide-bar h3 {
+        color: #666;
+        font-weight: 900;
+        font-size: 20px;
+        margin-left: 10px;
+        padding-bottom: 10px;
+        padding-top: 14px;
+    }
+    .slide-bar-divider {
+        border-bottom: 1px solid #ddd;
+    }
+    .slide-bar ul {
+        list-style-type: none;
+        margin-left: 0;
+    }
+    .menuitem,
+    .text {
+        width: 95% !important;
+        margin-left: 10px !important;
+    }
+    .top-bar-small {
+        display: block;
+    }
+    .top-bar {
+        display: none;
+    }
+    .marquee h1 {
+        xfont-size: 28px !important;
+    }
+    .posterStyle h1 {
+        font-size: 39px !important;
+    }
+    .posterStyle h2 {
+        font-size: 24px !important;
+    }
+    .small {
+        font-size: 13px !important;
+    }
+    .mainBannerText {
+        font-size: 20px !important;
+    }
+    .actionBanner h5 {
+        font-size: 13px;
+        font-weight: 600;
+        padding-top: 20px;
+    }
+    .socialIcons {
+        padding-top: 7px !important;
+    }
+    .mentionPic {
+        clip-path: none;
+        -webkit-clip-path: none;
+    }
+    #posterWrapper {
+        xpadding-top: 100px;
+    }
+    .colShuffle {
+        width: 50%;
+    }
+    .faculty h1 {
+        font-size: 2.2em !important;
+    }
+    .faculty h2 {
+        font-size: 1.4em !important;
+    }
+    .courseResult a.text {
+        position: unset !important;
+        width: 41% !important;
+        text-align: left;
+        margin: 0 !important;
+        display: inline-block;
+        border: 1px solid #096a47;
+        text-align: center;
+        margin: 9px !important;
+    }
+    .courseResult p {
+        padding-right: 0;
+    }
+    .quotesBanner .slick-slide {
+        height: auto !important;
+    }
+    .slick-slide p {
+        padding-left: 10px;
+    }
+    .slick-slide h3 {
+        padding-left: 10px;
+    }
+    .slick-slide img {
+        width: 100%;
+        float: left;
+        height: auto;
+        padding-bottom: 10px;
+        padding-right: 0;
+        border-radius: 7px 7px 7px 7px;
+    }
+    .quotesBanner {
+        height: auto;
+    }
+    .quotesBanner .quoteWords {
+        font-size: 22px;
+    }
+    .connectStyle {
+        padding-top: 20px;
+    }
+    .tagline {
+        font-size: 15px !important;
+    }
+    .connectStyle {
+        height: 120px;
+    }
+    .courseSessions a.text{ 
+        margin-top: 10px;
+    width: 97% !important;
+    margin-left: 0px !important;
+    margin-bottom: 16px;
+    }
+    .contactCard div {
+        padding-left: 20px !important;
+        float: left;
+        width: 53%;
+    }
+    .contactCard{
+        height:180px;
+        padding-bottom:0px;
+    }
+}
+@media only screen and (max-width: 680px) {
+    .columnsDiv50 {
+        width: 100%;
+    }
+    .columnsDiv33 {
+        width: 100%;
+        padding-bottom:30px;
+        border-bottom:1px solid #ccc;
+    margin-bottom:30px;
+    }
+    .columnsDiv25 {
+        width: 100%;
+    }
+    .colShuffle {
+        width: 49%;
+    }
+    .featureBox h4 {
+        top: 80%;
+    }
+    div.marquee {
+        background-position: 50% 0;
+    }
+    p iframe {
+        width: 100% !important;
+    }
+    .sticky-wrapper {
+        height: 48px !important;
+    }
+    .anchorMenuSmall {
+        display: none;
+    }
+    .anchorMenu li {
+        width: 40%;
+    }
+    .anchorMenu a {
+        font-size: 11px;
+    }
+    .content h3 {
+        text-align: center;
+        padding-bottom: 16px;
+    }
+    .contactCard p {
+        line-height: 15px;
+        font-size: 14px;
+    }
+    .title-bar-right {
+        display: none;
+    }
+    .mainBannerText {
+        font-size: 18px !important;
+    }
+    .top-bar {
+        display: none;
+    }
+    .faculty h1 {
+        font-size: 2.2em !important;
+    }
+    .faculty h2 {
+        font-size: 1.4em !important;
+    }
+    .faculty {
+        width: 100%;
+        padding-top: 227px;
+    }
+    .posterStyleMain {
+        text-align: center !important;
+    }
+    .posterBanner {
+        padding-top: 25px;
+        padding-bottom: 0;
+    }
+    .frontSearch {
+        border: none;
+        margin-top: 0;
+    }
+    .searchFilters {
+        width: 100%;
+        padding-left: 20px;
+    }
+    .mobileButton {
+        margin: 0 auto;
+        display: initial !important;
+        width: 100% !important;
+        position: unset !important;
+        top: unset !important;
+        right: unset !important;
+        margin: 0 auto;
+    }
+    .notMobileButton {
+        display: none !important;
+    }
+    .title1 {font-size:38px !important}
+    .title2 {font-size:24px !important;}
+    .middleColumn{
+        border-right: unset;
+        border-left: unset;
+        padding-left: 0px; 
+        padding-right: 0px;
+    }
+    .tagline {text-align: center;}
+    .tagSocial {text-align:center;}
+    .allnews {width:100%;text-align: center;}
+    .menuitem {text-align:center;}
+}
+@media only screen and (max-width: 640px) {
+    #posterWrapper {
+        padding-top: 0;
+    }
+    .clearfix {
+        display: none !important;
+    }
+    .bkgroundTest {
+        background-size: 640px;
+    }
+    .xmarquee {
+        height: 300px !important;
+    }
+    .searchBox {
+        display: none !important;
+    }
+    .maps img {
+        display: none;
+    }
+    .maps .contactMap {
+        margin-top: 0 !important;
+    }
+    .maps {
+        height: inherit !important;
+    }
+    .arrow {
+        display: none;
+    }
+    #transCardWrapper {
+        padding-top: 70px;
+    }
+    .backgroundImage {
+        min-height: 760px !important;
+    }
+    .marquee h1 {
+        padding-bottom: 20px;
+    }
+    .bigNumbers h1 {
+        padding-bottom: 0;
+    }
+    .actionBanner {
+        min-height: 50px;
+    }
+    .actionBanner .fa-stack {
+        padding-top: 5px;
+    }
+    .fa-lg {
+        font-size: 18px !important;
+    }
+    .transCardTitle {
+        height: auto;
+    }
+    .mainBannerText {
+        font-size: 18px !important;
+    }
+    .mainBannerText:hover {
+        padding-top: 0 !important;
+    }
+    .mainBannerList {
+        margin-bottom: 0 !important;
+    }
+    .mainBannerList li {
+        width: 80%;
+        height: 80px;
+        margin: 0;
+        margin-bottom: 7px;
+        padding-bottom: 11px;
+        padding-top: 9px;
+    }
+    .mainBannerList li:hover {
+        width: 80%;
+        margin: 0;
+        margin-bottom: 7px;
+        padding-bottom: 11px;
+        padding-top: 9px !important;
+    }
+    x.small {
+        display: none;
+    }
+    .bigNumbers {
+        width: 100%;
+    }
+    .removeMargins {
+        margin: 0 !important;
+    }
+    .mentionPic {
+        clip-path: none;
+        -webkit-clip-path: none;
+    }
+    .mentionPic img {
+        width: 100%;
+        margin: 0;
+    }
+    .mentions {
+        border-bottom: 1px solid #e6e6e6 !important;
+        padding: 0;
+        padding-bottom: 10px;
+        overflow: hidden;
+        padding-top: 10px;
+    }
+    .mentions p {
+        display: none;
+    }
+    .mentions h5 {
+        font-size: 20px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .socialIcons {
+        text-align: center;
+    }
+.coursePhoto
+{
+width:100%;
+margin-left:0px;
+margin-bottom:20px;
+}
+}
+.dropdown {
+    padding-left: 280px;
+    padding-top: 4px;
+}
+.is-dropdown-submenu-parent {
+    color: #666;
+    font-size: 0.9em;
+    font-weight: 600;
+    font-family: "Open Sans";
+}
+.dropdown.menu > li.is-dropdown-submenu-parent > a:after {
+    color: #fff !important;
+    font-weight: 300;
+}
+.dropdown.menu > li.opens-right > .is-dropdown-submenu {
+    right: auto;
+    left: 8px;
+    top: 46px !important;
+    background-color: #fff;
+    padding: 10px;
+    width: 250px;
+}
+.is-dropdown-submenu-parent a:after {
+    right: 10px !important;
+}
+.dropdown.menu > li.is-dropdown-submenu-parent > a:after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: 5px inset;
+    border-color: #fff transparent transparent;
+    border-top-style: solid;
+    border-bottom-width: 0;
+    right: 5px;
+    margin-top: -2px;
+}
+.applyButton {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.menu a button {
+    margin-right: 10px;
+    margin-top: 2px;
+    background-color: #1e9327 !important;
+    font-family: "Open Sans";
+    text-transform: capitalize;
+    height: 40px !important;
+}
+.divider {
+    height: 1px;
+    margin: 11px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+    padding: 0 !important;
+}
+.is-dropdown-submenu-item a {
+    color: #4d4d4d !important;
+    text-align: left;
+    font-family: "Open Sans";
+    xtext-transform: capitalize;
+    white-space: nowrap;
+    font-weight: 400;
+    padding: 0 !important;
+    line-height: 2 !important;
+}
+.vertical li a {
+    color: #4d4d4d !important;
+    text-align: left;
+    font-family: "Open Sans";
+    xtext-transform: capitalize;
+    white-space: nowrap;
+    font-weight: 400;
+    padding: 0 !important;
+    line-height: 2 !important;
+}
+.is-dropdown-submenu-item {
+    padding: 6px 0;
+}
+.is-submenu-item p {
+    color: #afaeae !important;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Open Sans";
+    font-size: 12px;
+    margin: 0 !important;
+}
+@media only screen and (max-width: 575px) {
+    .backgroundImage {
+        min-height: 760px !important;
+    }
+    .EEBanner{
+        height:450px;
+  background-position-x: left;
+  padding-top:375px;
+    }
+    .EELink{
+display:block;
+margin-left:20px;
+    }
+    #posterWrapper {
+        padding-top: 0;
+    }
+    .posterBanner {
+        padding-top: 50px;
+    }
+    .bigNumbers h1 {
+        line-height: 35px;
+    }
+    .posterStyleMain {
+        line-height: 70px !important;
+    }
+    address {
+        border-left: none !important;
+        border-top: 1px solid #cacaca !important;
+        padding: 25px !important;
+        padding-top: 14px;
+        text-align: center;
+        border-bottom: 1px solid #cacaca !important;
+        padding-bottom: 14px;
+        width: 100% !important;
+    }
+    @media only screen and (max-width: 470px) {
+        .transCardTitle h1 {
+            font-size: 32px !important;
+        }
+        .title1 {font-size:34px !important;}
+    }
+    @media only screen and (max-width: 450px) {
+        #posterWrapper {
+            xpadding-top: 25px;
+        }
+        .ghostButtonListBanner {
+            padding-top: 0;
+        }
+        .ghostButton {
+            margin-bottom: 10px;
+        }
+    }
+    @media only screen and (max-width: 415px) {
+        .googleMap {
+            display: none;
+        }
+        .Standard p img {
+            width: 100%;
+        }
+        .facBanner {
+            background-position: 0 150px !important;
+            height: 650px !important;
+        }
+        .mainBannerList {
+            margin-bottom: 0 !important;
+        }
+        .backgroundImage {
+            min-height: 776px !important;
+        }
+        .uofs-footer-logo {
+            margin-left: 0;
+        }
+        .footer-social {
+            margin-left: 0;
+        }
+        .footer-links {
+            margin-left: 0;
+        }
+        .faculty h1 {
+            font-size: 2.2em !important;
+        }
+        .slick-slide {
+            height: auto !important;
+        }
+        .wordsDiv {
+            width: 100% !important;
+        }
+        .imgDiv {
+            width: 100% !important;
+            min-height: 250px;
+        }
+        p iframe {
+            width: 100%;
+            height: 206px;
+        }
+        .posterStyle h1 {
+            font-size: 34px !important;
+        }
+        .sm_posterBanner {
+            padding-top: 40px;
+        }
+        .posterStyle h2 {
+            font-size: 24px !important;
+        }
+        .bigNumbers h1 {
+            padding-bottom: 0;
+            margin-bottom: 0;
+        }
+        .posterStyleMain {
+            line-height: 35px !important;
+        }
+        .factRow .ghostButtonList .ghostButton {
+            width: 90%;
+        }
+        .front-page {
+            padding-bottom: 14px;
+            padding-top: 21px;
+        }
+        .front-page a img {
+            width: 100%;
+        }
+        .colShuffle {
+            width: 100%;
+        }
+        .faculty h2 {
+            font-size: 1.4em !important;
+        }
+        .faculty {
+            width: 100%;
+        }
+        .gsc-input {
+            width: 99%;
+        }
+        .gsc-search-button {
+            position: absolute;
+            top: 100px;
+            left: 59px;
+        }
+        .singleEvent {
+            padding-left: 0;
+            padding-bottom: 8px;
+            border-right: 0;
+           
+            margin-bottom: 19px;
+        }
+        .events {
+            border-bottom: 0;
+            padding-bottom: 0;
+        }
+        .last {
+            border: 0;
+        }
+        .content img {
+            margin: 0 !important;
+        }
+        .courseResult h1 {
+            font-size: 30px !important;
+            text-align: center;
+        }
+        .courseResult h2 {
+            text-align: center;
+            font-size: 20px !important;
+            padding-top: 10px;
+        }
+        .courseResult p {
+            padding-right: 0;
+        }
+        .courseResult a.text {
+            position: unset !important;
+            width: 41% !important;
+            text-align: left;
+            margin: 0 !important;
+            display: inline-block;
+            border: 1px solid #096a47;
+            text-align: center;
+            margin: 9px !important;
+        }
+        .hide-for-small {
+            display: none !important;
+        }
+        .categories {
+            line-height: 18px;
+        }
+        .marquee {
+            background-size: cover;
+            background-position: unset;
+        }
+        .Standard h1 {
+            text-align: center;
+        }
+        .row.find div p {
+            font-size: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        .row.find div i {
+            font-size: 60px !important;
+            color: #096a47;
+        }
+        .frontSearch {
+            border: none;
+            width: 100%;
+            margin: 0 !important;
+        }
+        .searchStyle {
+            margin: 0 !important;
+        }
+        .quotesBanner .quoteWords {
+            font-size: 20px;
+            margin: 0 auto;
+            padding-top: 20px;
+            padding-right: 50px;
+            padding-left: 46px;
+            padding-bottom: 30px;
+        }
+        .slick-next {
+            display: none !important;
+        }
+        .slick-prev {
+            display: none !important;
+        }
+        .connectStyle {
+            height: 210px;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .tagline {
+            padding-bottom: 13px;
+        }
+        .mobileButton {
+            margin: 0 auto;
+            display: initial !important;
+            width: 100% !important;
+            position: unset !important;
+            top: unset !important;
+            right: unset !important;
+        }
+        .notMobileButton {
+            display: none;
+        }
+        .content h1 {
+            font-size: 29px !important;
+        }
+        .courseInfo {
+            border: none;
+        }
+    }
+}

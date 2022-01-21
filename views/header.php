@@ -72,7 +72,7 @@
                 <ul class="accordion" data-accordion="" data-allow-all-closed="true">
 
                     <li class="accordion-item" data-accordion-item="">
-                        <a class="accordion-title"  href="">Home</a>
+                        <a class="accordion-title"  href="/">Home</a>
                     </li>
                     <li>
                         <a class="accordion-title" href="/about">About Us</a>
@@ -84,16 +84,13 @@
                         <a class="accordion-title" href="http://cedgs.mountaintopuniversity.edu.ng/" target="_blank">CEDGE LMS Express</a>
                     </li>
                     <li>
-                        <a class="accordion-title" href="/our-courses">Courses/Programs</a>
+                        <a class="accordion-title" href="/our-vocational-courses">Courses/Programs</a>
                     </li>
                     <li>
-                        <a class="accordion-title" href="#">Achievements</a>
-                    </li>
-                    <li>
-                        <a class="accordion-title" href="#">Contact Us</a>
+                        <a class="accordion-title" href="/achievements">Achievements</a>
                     </li>
                 </ul>
-                <a href="" class="menuitem">Contact Us</a>
+                <a href="/contact" class="menuitem">Contact Us</a>
                 <a href="http://cedgs.mountaintopuniversity.edu.ng/login" class="text">LOGIN</a>
             </div>
         </div>
@@ -132,19 +129,19 @@
                                             <a href="/about">About Us</a>
                                         </li>
                                         <li>
-                                            <a href="#">MTU Main Website</a>
+                                            <a href="https://mtu.edu.ng/" target="_blank">MTU Main Website</a>
                                         </li>
                                         <li>
                                             <a href="http://cedgs.mountaintopuniversity.edu.ng/" target="_blank">CEDGE LMS Express</a>
                                         </li>
                                         <li>
-                                            <a href="/our-courses">Courses/Programs</a>
+                                            <a href="/our-vocational-courses">Courses/Programs</a>
                                         </li>
                                         <li>
-                                            <a href="#">Achievements</a>
+                                            <a href="/achievements">Achievements</a>
                                         </li>
                                         <li>
-                                            <a href="#">Contact Us</a>
+                                            <a href="/contact">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>

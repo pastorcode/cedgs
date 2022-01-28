@@ -23,6 +23,10 @@ switch ($request):
     case'/achievements/':
         require __DIR__ . '/views/achievements.php';
     break;
+    case'/training-and-conferences':
+    case'/training-and-conferences/':
+        require __DIR__ . '/views/training.php';
+        break;
     default:
         require __DIR__ . '/views/404.php';
         break;

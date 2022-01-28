@@ -89,6 +89,9 @@
                     <li>
                         <a class="accordion-title" href="/achievements">Achievements</a>
                     </li>
+                    <li>
+                        <a class="accordion-title" href="/training-and-conferences">Training & Conferences</a>
+                    </li>
                 </ul>
                 <a href="/contact" class="menuitem">Contact Us</a>
                 <a href="http://cedgs.mountaintopuniversity.edu.ng/login" class="text">LOGIN</a>
@@ -120,9 +123,6 @@
                                             <a href="#"></a>
                                         </li>
                                         <li>
-                                            <a href="#"></a>
-                                        </li>
-                                        <li>
                                             <a href="/">Home</a>
                                         </li>
                                         <li>
@@ -139,6 +139,9 @@
                                         </li>
                                         <li>
                                             <a href="/achievements">Achievements</a>
+                                        </li>
+                                        <li>
+                                            <a href="/training-and-conferences">Training & Conferences</a>
                                         </li>
                                         <li>
                                             <a href="/contact">Contact Us</a>
